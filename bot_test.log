@@ -1,0 +1,1718 @@
+2025-07-07 19:44:30,402 - INFO - 2500 User-Agents aus /home/christoph/antenne-server/useragents.txt geladen.
+2025-07-07 19:44:30,402 - INFO - Starte unbegrenzten Test-Loop
+2025-07-07 19:44:31,127 - INFO - Chromium-Browser erfolgreich gestartet
+2025-07-07 19:44:31,127 - INFO - 
+--- Durchlauf 1 (unbegrenzt) ---
+2025-07-07 19:44:31,128 - INFO - Versuch #1 gestartet
+2025-07-07 19:44:32,741 - INFO - Zoom auf 30% gesetzt
+2025-07-07 19:44:32,749 - INFO - Anti-Bot-Erkennung: navigator.webdriver & Plugins gefälscht
+2025-07-07 19:44:32,922 - INFO - Website geladen: https://www.antenne.de/programm/aktionen/die-antenne-bayern-schulhof-gigs/schulen/13248-gymnasium-markt-indersdorf
+2025-07-07 19:44:34,671 - ERROR - Fehler in Testsequenz: Message: element click intercepted: Element <button type="submit" id="voteIntendButton" class="c-button c-button--large c-button--centered u-extra-small-margin--top ">...</button> is not clickable at point (462, 226). Other element would receive the click: <div id="usercentrics-root" data-created-at="1751910272590" style=""></div>
+  (Session info: chrome=138.0.7204.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+#0 0x61dd64a4202e <unknown>
+#1 0x61dd644de351 <unknown>
+#2 0x61dd6452f001 <unknown>
+#3 0x61dd6452d5b9 <unknown>
+#4 0x61dd6452b151 <unknown>
+#5 0x61dd6452a8e3 <unknown>
+#6 0x61dd6451f21a <unknown>
+#7 0x61dd6454c8f2 <unknown>
+#8 0x61dd6451e9fd <unknown>
+#9 0x61dd6454cabe <unknown>
+#10 0x61dd6456bd44 <unknown>
+#11 0x61dd6454c6c3 <unknown>
+#12 0x61dd6451d259 <unknown>
+#13 0x61dd6451ddc1 <unknown>
+#14 0x61dd64a0e1ca <unknown>
+#15 0x61dd64a11531 <unknown>
+#16 0x61dd64a10fc8 <unknown>
+#17 0x61dd64a119d5 <unknown>
+#18 0x61dd649f7c6c <unknown>
+#19 0x61dd64a11d41 <unknown>
+#20 0x61dd649e074a <unknown>
+#21 0x61dd64a30175 <unknown>
+#22 0x61dd64a3036e <unknown>
+#23 0x61dd64a41315 <unknown>
+#24 0x77137d01a1f5 <unknown>
+
+2025-07-07 19:44:34,671 - INFO - Erfolgsrate pro Minute: 0.00
+2025-07-07 19:44:34,671 - INFO - Erfolgreiche Versuche: 0
+2025-07-07 19:44:34,672 - INFO - Fehlgeschlagene Versuche: 1
+2025-07-07 19:44:34,672 - INFO - Erfolgsrate: 0.0%
+2025-07-07 19:44:41,953 - INFO - Test durch Benutzer abgebrochen
+2025-07-07 19:44:41,958 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(104, 'Connection reset by peer')': /session/1c34e5785e9d31892921c5c40abe5db3
+2025-07-07 19:44:41,959 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7a5759b757d0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/1c34e5785e9d31892921c5c40abe5db3
+2025-07-07 19:44:41,959 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7a5759b75810>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/1c34e5785e9d31892921c5c40abe5db3
+2025-07-07 19:44:41,960 - INFO - Browser geschlossen
+2025-07-07 19:44:41,960 - INFO - 
+=== FINALE STATISTIKEN ===
+2025-07-07 19:44:41,960 - INFO - Gesamte Versuche: 1
+2025-07-07 19:44:41,960 - INFO - Erfolgreiche Versuche: 0
+2025-07-07 19:44:41,960 - INFO - Fehlgeschlagene Versuche: 1
+2025-07-07 19:44:41,961 - INFO - Erfolgsrate: 0.0%
+2025-07-07 19:51:56,060 - INFO - 2500 User-Agents aus /home/christoph/antenne-server/useragents.txt geladen.
+2025-07-07 19:51:56,061 - INFO - Starte unbegrenzten Test-Loop
+2025-07-07 19:51:56,674 - INFO - Chromium-Browser erfolgreich gestartet
+2025-07-07 19:51:56,674 - INFO - 
+--- Durchlauf 1 (unbegrenzt) ---
+2025-07-07 19:51:56,674 - INFO - Versuch #1 gestartet
+2025-07-07 19:51:58,628 - INFO - Zoom auf 30% gesetzt
+2025-07-07 19:51:58,760 - INFO - Anti-Bot-Erkennung: navigator.webdriver & Plugins gefälscht
+2025-07-07 19:51:58,780 - INFO - Website geladen: https://www.antenne.de/programm/aktionen/die-antenne-bayern-schulhof-gigs/schulen/13248-gymnasium-markt-indersdorf
+2025-07-07 19:52:01,067 - ERROR - Fehler in Testsequenz: Message: element click intercepted: Element <button type="submit" id="voteIntendButton" class="c-button c-button--large c-button--centered u-extra-small-margin--top ">...</button> is not clickable at point (462, 226). Other element would receive the click: <div id="usercentrics-root" data-created-at="1751910718380" style=""></div>
+  (Session info: chrome=138.0.7204.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#elementclickinterceptedexception
+Stacktrace:
+#0 0x61aea4c1a02e <unknown>
+#1 0x61aea46b6351 <unknown>
+#2 0x61aea4707001 <unknown>
+#3 0x61aea47055b9 <unknown>
+#4 0x61aea4703151 <unknown>
+#5 0x61aea47028e3 <unknown>
+#6 0x61aea46f721a <unknown>
+#7 0x61aea47248f2 <unknown>
+#8 0x61aea46f69fd <unknown>
+#9 0x61aea4724abe <unknown>
+#10 0x61aea4743d44 <unknown>
+#11 0x61aea47246c3 <unknown>
+#12 0x61aea46f5259 <unknown>
+#13 0x61aea46f5dc1 <unknown>
+#14 0x61aea4be61ca <unknown>
+#15 0x61aea4be9531 <unknown>
+#16 0x61aea4be8fc8 <unknown>
+#17 0x61aea4be99d5 <unknown>
+#18 0x61aea4bcfc6c <unknown>
+#19 0x61aea4be9d41 <unknown>
+#20 0x61aea4bb874a <unknown>
+#21 0x61aea4c08175 <unknown>
+#22 0x61aea4c0836e <unknown>
+#23 0x61aea4c19315 <unknown>
+#24 0x7fe8676091f5 <unknown>
+
+2025-07-07 19:52:01,067 - INFO - Erfolgsrate pro Minute: 0.00
+2025-07-07 19:52:01,067 - INFO - Erfolgreiche Versuche: 0
+2025-07-07 19:52:01,067 - INFO - Fehlgeschlagene Versuche: 1
+2025-07-07 19:52:01,068 - INFO - Erfolgsrate: 0.0%
+2025-07-07 19:52:03,086 - INFO - Test durch Benutzer abgebrochen
+2025-07-07 19:52:03,089 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(104, 'Connection reset by peer')': /session/9d794d19a742d617caeee72a9365754a
+2025-07-07 19:52:03,090 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x75f4353e91d0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/9d794d19a742d617caeee72a9365754a
+2025-07-07 19:52:03,091 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x75f4353ea0d0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/9d794d19a742d617caeee72a9365754a
+2025-07-07 19:52:03,092 - INFO - Browser geschlossen
+2025-07-07 19:52:03,092 - INFO - 
+=== FINALE STATISTIKEN ===
+2025-07-07 19:52:03,092 - INFO - Gesamte Versuche: 1
+2025-07-07 19:52:03,092 - INFO - Erfolgreiche Versuche: 0
+2025-07-07 19:52:03,092 - INFO - Fehlgeschlagene Versuche: 1
+2025-07-07 19:52:03,092 - INFO - Erfolgsrate: 0.0%
+2025-07-07 19:56:42,653 - INFO - 2500 User-Agents aus /home/christoph/antenne-server/useragents.txt geladen.
+2025-07-07 19:56:42,653 - INFO - Starte unbegrenzten Test-Loop
+2025-07-07 19:56:42,654 - INFO - 'I still don't care about cookies'-Erweiterung geladen aus: /home/christoph/antenne-server/idcac_extension
+2025-07-07 19:56:43,281 - INFO - Chromium-Browser erfolgreich gestartet
+2025-07-07 19:56:43,281 - INFO - 
+--- Durchlauf 1 (unbegrenzt) ---
+2025-07-07 19:56:43,281 - INFO - Versuch #1 gestartet
+2025-07-07 19:56:44,763 - INFO - Zoom auf 30% gesetzt
+2025-07-07 19:56:44,770 - INFO - Anti-Bot-Erkennung: navigator.webdriver & Plugins gefälscht
+2025-07-07 19:56:44,999 - INFO - Website geladen: https://www.antenne.de/programm/aktionen/die-antenne-bayern-schulhof-gigs/schulen/13248-gymnasium-markt-indersdorf
+2025-07-07 19:56:45,000 - INFO - Überprüfe auf Cookie-Banner (Fallback)...
+2025-07-07 19:56:45,021 - INFO - Usercentrics-Cookie-Banner erkannt. Versuche manuelles Schließen.
+2025-07-07 19:56:45,780 - WARNING - Kein passender Cookie-Banner-Button gefunden.
+2025-07-07 19:56:45,780 - WARNING - Fallback: Cookie-Banner konnte nicht geschlossen werden.
+2025-07-07 19:56:45,856 - INFO - Element geklickt: voteIntendButton
+2025-07-07 19:56:48,325 - WARNING - Element nicht gefunden: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/aside/label (Timeout: 2s)
+2025-07-07 19:56:48,325 - ERROR - Schritt 2 fehlgeschlagen: Zweiter Button nicht gefunden
+2025-07-07 19:56:52,523 - WARNING - Element nicht gefunden: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/div/div/div[1]/div/div/div/button (Timeout: 4s)
+2025-07-07 19:56:52,523 - ERROR - Schritt 3 fehlgeschlagen: Dritter Button nicht gefunden
+2025-07-07 19:56:52,523 - INFO - Erfolgsrate pro Minute: 0.00
+2025-07-07 19:56:52,523 - INFO - Erfolgreiche Versuche: 0
+2025-07-07 19:56:52,524 - INFO - Fehlgeschlagene Versuche: 1
+2025-07-07 19:56:52,524 - INFO - Erfolgsrate: 0.0%
+2025-07-07 19:57:02,524 - INFO - 
+--- Durchlauf 2 (unbegrenzt) ---
+2025-07-07 19:57:02,724 - INFO - Browser geschlossen
+2025-07-07 19:57:02,724 - INFO - 
+=== FINALE STATISTIKEN ===
+2025-07-07 19:57:02,724 - INFO - Gesamte Versuche: 1
+2025-07-07 19:57:02,724 - INFO - Erfolgreiche Versuche: 0
+2025-07-07 19:57:02,725 - INFO - Fehlgeschlagene Versuche: 1
+2025-07-07 19:57:02,725 - INFO - Erfolgsrate: 0.0%
+2025-07-07 19:57:02,725 - INFO - 'I still don't care about cookies'-Erweiterung geladen aus: /home/christoph/antenne-server/idcac_extension
+2025-07-07 19:57:03,276 - INFO - Chromium-Browser erfolgreich gestartet
+2025-07-07 19:57:03,276 - INFO - Versuch #2 gestartet
+2025-07-07 19:57:04,829 - INFO - Zoom auf 30% gesetzt
+2025-07-07 19:57:04,853 - INFO - Anti-Bot-Erkennung: navigator.webdriver & Plugins gefälscht
+2025-07-07 19:57:04,862 - INFO - Website geladen: https://www.antenne.de/programm/aktionen/die-antenne-bayern-schulhof-gigs/schulen/13248-gymnasium-markt-indersdorf
+2025-07-07 19:57:04,862 - INFO - Überprüfe auf Cookie-Banner (Fallback)...
+2025-07-07 19:57:04,895 - INFO - Usercentrics-Cookie-Banner erkannt. Versuche manuelles Schließen.
+2025-07-07 19:57:05,353 - WARNING - Kein passender Cookie-Banner-Button gefunden.
+2025-07-07 19:57:05,353 - WARNING - Fallback: Cookie-Banner konnte nicht geschlossen werden.
+2025-07-07 19:57:05,545 - INFO - Element geklickt: voteIntendButton
+2025-07-07 19:57:08,217 - WARNING - Element nicht gefunden: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/aside/label (Timeout: 2s)
+2025-07-07 19:57:08,217 - ERROR - Schritt 2 fehlgeschlagen: Zweiter Button nicht gefunden
+2025-07-07 19:57:10,604 - INFO - Test durch Benutzer abgebrochen
+2025-07-07 19:57:10,606 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(104, 'Connection reset by peer')': /session/65824f7f88b649afb267dd035427943e
+2025-07-07 19:57:10,611 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x746e17d38810>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/65824f7f88b649afb267dd035427943e
+2025-07-07 19:57:10,612 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x746e17d38990>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/65824f7f88b649afb267dd035427943e
+2025-07-07 19:57:10,625 - INFO - Browser geschlossen
+2025-07-07 19:57:10,625 - INFO - 
+=== FINALE STATISTIKEN ===
+2025-07-07 19:57:10,625 - INFO - Gesamte Versuche: 2
+2025-07-07 19:57:10,625 - INFO - Erfolgreiche Versuche: 0
+2025-07-07 19:57:10,625 - INFO - Fehlgeschlagene Versuche: 1
+2025-07-07 19:57:10,625 - INFO - Erfolgsrate: 0.0%
+2025-07-07 19:57:58,473 - INFO - 2500 User-Agents aus /home/christoph/antenne-server/useragents.txt geladen.
+2025-07-07 19:57:58,474 - INFO - Starte unbegrenzten Test-Loop
+2025-07-07 19:57:58,474 - INFO - 'I still don't care about cookies'-Erweiterung geladen aus: /home/christoph/antenne-server/idcac_extension
+2025-07-07 19:58:12,234 - INFO - Chromium-Browser erfolgreich gestartet
+2025-07-07 19:58:12,235 - INFO - 
+--- Durchlauf 1 (unbegrenzt) ---
+2025-07-07 19:58:12,235 - INFO - Versuch #1 gestartet
+2025-07-07 19:58:13,857 - INFO - Zoom auf 30% gesetzt
+2025-07-07 19:58:13,983 - INFO - Anti-Bot-Erkennung: navigator.webdriver & Plugins gefälscht
+2025-07-07 19:58:14,038 - INFO - Website geladen: https://www.antenne.de/programm/aktionen/die-antenne-bayern-schulhof-gigs/schulen/13248-gymnasium-markt-indersdorf
+2025-07-07 19:58:14,039 - INFO - Überprüfe auf Cookie-Banner (Fallback)...
+2025-07-07 19:58:14,084 - INFO - Usercentrics-Cookie-Banner erkannt. Versuche manuelles Schließen.
+2025-07-07 19:58:14,572 - WARNING - Kein passender Cookie-Banner-Button gefunden.
+2025-07-07 19:58:14,572 - WARNING - Fallback: Cookie-Banner konnte nicht geschlossen werden.
+2025-07-07 19:58:14,731 - INFO - Element geklickt: voteIntendButton
+2025-07-07 19:58:17,105 - WARNING - Element nicht gefunden: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/aside/label (Timeout: 2s)
+2025-07-07 19:58:17,105 - ERROR - Schritt 2 fehlgeschlagen: Zweiter Button nicht gefunden
+2025-07-07 19:58:21,279 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/div/div/div[1]/div/div/div/button
+2025-07-07 19:58:27,847 - INFO - Element geklickt: votingButton
+2025-07-07 19:58:28,597 - INFO - Versuch erfolgreich abgeschlossen!
+2025-07-07 19:58:29,396 - INFO - Erfolgsrate pro Minute: 1.94
+2025-07-07 19:58:29,396 - INFO - Erfolgreiche Versuche: 1
+2025-07-07 19:58:29,396 - INFO - Fehlgeschlagene Versuche: 0
+2025-07-07 19:58:29,396 - INFO - Erfolgsrate: 100.0%
+2025-07-07 19:58:39,396 - INFO - 
+--- Durchlauf 2 (unbegrenzt) ---
+2025-07-07 19:58:39,404 - INFO - Browser geschlossen
+2025-07-07 19:58:39,404 - INFO - 
+=== FINALE STATISTIKEN ===
+2025-07-07 19:58:39,404 - INFO - Gesamte Versuche: 1
+2025-07-07 19:58:39,404 - INFO - Erfolgreiche Versuche: 1
+2025-07-07 19:58:39,404 - INFO - Fehlgeschlagene Versuche: 0
+2025-07-07 19:58:39,404 - INFO - Erfolgsrate: 100.0%
+2025-07-07 19:58:39,404 - INFO - 'I still don't care about cookies'-Erweiterung geladen aus: /home/christoph/antenne-server/idcac_extension
+2025-07-07 19:58:43,904 - INFO - Chromium-Browser erfolgreich gestartet
+2025-07-07 19:58:43,904 - INFO - Versuch #2 gestartet
+2025-07-07 19:58:45,911 - ERROR - Fehler in Testsequenz: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=138.0.7204.92)
+Stacktrace:
+#0 0x6042ca29802e <unknown>
+#1 0x6042c9d34351 <unknown>
+#2 0x6042c9d0fcc8 <unknown>
+#3 0x6042c9dab2d3 <unknown>
+#4 0x6042c9dc1833 <unknown>
+#5 0x6042c9da26c3 <unknown>
+#6 0x6042c9d73259 <unknown>
+#7 0x6042c9d73dc1 <unknown>
+#8 0x6042ca2641ca <unknown>
+#9 0x6042ca267531 <unknown>
+#10 0x6042ca266fc8 <unknown>
+#11 0x6042ca2679d5 <unknown>
+#12 0x6042ca24dc6c <unknown>
+#13 0x6042ca267d41 <unknown>
+#14 0x6042ca23674a <unknown>
+#15 0x6042ca286175 <unknown>
+#16 0x6042ca28636e <unknown>
+#17 0x6042ca297315 <unknown>
+#18 0x7ad19044a1f5 <unknown>
+
+2025-07-07 19:58:45,911 - INFO - Erfolgsrate pro Minute: 1.26
+2025-07-07 19:58:45,912 - INFO - Erfolgreiche Versuche: 1
+2025-07-07 19:58:45,912 - INFO - Fehlgeschlagene Versuche: 1
+2025-07-07 19:58:45,912 - INFO - Erfolgsrate: 50.0%
+2025-07-07 19:58:47,512 - INFO - Test durch Benutzer abgebrochen
+2025-07-07 19:58:47,514 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(104, 'Connection reset by peer')': /session/bbc7e0260d3db290b9e8eb2934476d0c
+2025-07-07 19:58:47,518 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x714443bd2a10>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/bbc7e0260d3db290b9e8eb2934476d0c
+2025-07-07 19:58:47,519 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x714443bd32d0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/bbc7e0260d3db290b9e8eb2934476d0c
+2025-07-07 19:58:47,520 - INFO - Browser geschlossen
+2025-07-07 19:58:47,520 - INFO - 
+=== FINALE STATISTIKEN ===
+2025-07-07 19:58:47,520 - INFO - Gesamte Versuche: 2
+2025-07-07 19:58:47,520 - INFO - Erfolgreiche Versuche: 1
+2025-07-07 19:58:47,520 - INFO - Fehlgeschlagene Versuche: 1
+2025-07-07 19:58:47,520 - INFO - Erfolgsrate: 50.0%
+2025-07-07 20:03:43,193 - INFO - 2500 User-Agents aus /home/christoph/antenne-server/useragents.txt geladen.
+2025-07-07 20:03:43,193 - INFO - Starte unbegrenzten Test-Loop
+2025-07-07 20:03:43,193 - INFO - 'I still don't care about cookies'-Erweiterung geladen aus: /home/christoph/antenne-server/idcac_extension
+2025-07-07 20:03:51,693 - INFO - Chromium-Browser erfolgreich gestartet
+2025-07-07 20:03:51,694 - INFO - 
+--- Durchlauf 1 (unbegrenzt) ---
+2025-07-07 20:03:51,694 - INFO - Versuch #1 gestartet
+2025-07-07 20:03:54,177 - INFO - Zoom auf 30% gesetzt
+2025-07-07 20:03:54,186 - INFO - Anti-Bot-Erkennung: navigator.webdriver & Plugins gefälscht
+2025-07-07 20:03:54,195 - INFO - Website geladen: https://www.antenne.de/programm/aktionen/die-antenne-bayern-schulhof-gigs/schulen/13248-gymnasium-markt-indersdorf
+2025-07-07 20:03:54,195 - INFO - Überprüfe auf Cookie-Banner (Fallback)...
+2025-07-07 20:03:57,323 - INFO - Kein Cookie-Banner gefunden (Timeout).
+2025-07-07 20:04:01,484 - WARNING - Element nicht gefunden: voteIntendButton (Timeout: 4s)
+2025-07-07 20:04:01,484 - ERROR - Schritt 1 fehlgeschlagen: voteIntendButton nicht gefunden
+2025-07-07 20:04:01,485 - INFO - Erfolgsrate pro Minute: 0.00
+2025-07-07 20:04:01,485 - INFO - Erfolgreiche Versuche: 0
+2025-07-07 20:04:01,485 - INFO - Fehlgeschlagene Versuche: 1
+2025-07-07 20:04:01,485 - INFO - Erfolgsrate: 0.0%
+2025-07-07 20:04:07,257 - INFO - Test durch Benutzer abgebrochen
+2025-07-07 20:04:07,258 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(104, 'Connection reset by peer')': /session/ec755909d59421a3ed62dd95ebcff214
+2025-07-07 20:04:07,258 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7a5dc9579690>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/ec755909d59421a3ed62dd95ebcff214
+2025-07-07 20:04:07,258 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7a5dc9578f10>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/ec755909d59421a3ed62dd95ebcff214
+2025-07-07 20:04:07,259 - INFO - Browser geschlossen
+2025-07-07 20:04:07,259 - INFO - 
+=== FINALE STATISTIKEN ===
+2025-07-07 20:04:07,259 - INFO - Gesamte Versuche: 1
+2025-07-07 20:04:07,259 - INFO - Erfolgreiche Versuche: 0
+2025-07-07 20:04:07,259 - INFO - Fehlgeschlagene Versuche: 1
+2025-07-07 20:04:07,259 - INFO - Erfolgsrate: 0.0%
+2025-07-07 20:06:10,376 - INFO - 2500 User-Agents aus /home/christoph/antenne-server/useragents.txt geladen.
+2025-07-07 20:06:10,376 - INFO - Starte unbegrenzten Test-Loop
+2025-07-07 20:06:10,376 - INFO - 'I still don't care about cookies'-Erweiterung geladen aus: /home/christoph/antenne-server/idcac_extension
+2025-07-07 20:06:14,864 - INFO - Chromium-Browser erfolgreich gestartet
+2025-07-07 20:06:14,864 - INFO - 
+--- Durchlauf 1 (unbegrenzt) ---
+2025-07-07 20:06:14,865 - INFO - Versuch #1 gestartet
+2025-07-07 20:06:16,896 - INFO - Zoom auf 30% gesetzt
+2025-07-07 20:06:16,976 - INFO - Anti-Bot-Erkennung: navigator.webdriver & Plugins gefälscht
+2025-07-07 20:06:16,986 - INFO - Website geladen: https://www.antenne.de/programm/aktionen/die-antenne-bayern-schulhof-gigs/schulen/13248-gymnasium-markt-indersdorf
+2025-07-07 20:06:16,987 - INFO - Überprüfe auf Cookie-Banner (Fallback)...
+2025-07-07 20:06:17,017 - INFO - Usercentrics-Cookie-Banner erkannt. Versuche manuelles Schließen.
+2025-07-07 20:06:17,565 - WARNING - Kein passender Cookie-Banner-Button gefunden.
+2025-07-07 20:06:17,565 - WARNING - Fallback: Cookie-Banner konnte nicht geschlossen werden.
+2025-07-07 20:06:17,636 - INFO - Element geklickt: voteIntendButton
+2025-07-07 20:06:18,435 - ERROR - Fehler in Testsequenz: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=138.0.7204.92); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception
+Stacktrace:
+#0 0x562eb2d2b02e <unknown>
+#1 0x562eb27c7351 <unknown>
+#2 0x562eb27b1a04 <unknown>
+#3 0x562eb27d4b46 <unknown>
+#4 0x562eb283e3fe <unknown>
+#5 0x562eb2854833 <unknown>
+#6 0x562eb28356c3 <unknown>
+#7 0x562eb2806259 <unknown>
+#8 0x562eb2806dc1 <unknown>
+#9 0x562eb2cf71ca <unknown>
+#10 0x562eb2cfa531 <unknown>
+#11 0x562eb2cf9fc8 <unknown>
+#12 0x562eb2cfa9d5 <unknown>
+#13 0x562eb2ce0c6c <unknown>
+#14 0x562eb2cfad41 <unknown>
+#15 0x562eb2cc974a <unknown>
+#16 0x562eb2d19175 <unknown>
+#17 0x562eb2d1936e <unknown>
+#18 0x562eb2d2a315 <unknown>
+#19 0x7b6ce29601f5 <unknown>
+
+2025-07-07 20:06:18,435 - INFO - Erfolgsrate pro Minute: 0.00
+2025-07-07 20:06:18,435 - INFO - Erfolgreiche Versuche: 0
+2025-07-07 20:06:18,435 - INFO - Fehlgeschlagene Versuche: 1
+2025-07-07 20:06:18,435 - INFO - Erfolgsrate: 0.0%
+2025-07-07 20:06:19,740 - INFO - Test durch Benutzer abgebrochen
+2025-07-07 20:06:19,741 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(104, 'Connection reset by peer')': /session/0be118e8d079429b40fd2f73105c5f7e
+2025-07-07 20:06:19,742 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f253232d190>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/0be118e8d079429b40fd2f73105c5f7e
+2025-07-07 20:06:19,742 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f253232e010>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/0be118e8d079429b40fd2f73105c5f7e
+2025-07-07 20:06:19,743 - INFO - Browser geschlossen
+2025-07-07 20:06:19,743 - INFO - 
+=== FINALE STATISTIKEN ===
+2025-07-07 20:06:19,743 - INFO - Gesamte Versuche: 1
+2025-07-07 20:06:19,743 - INFO - Erfolgreiche Versuche: 0
+2025-07-07 20:06:19,743 - INFO - Fehlgeschlagene Versuche: 1
+2025-07-07 20:06:19,743 - INFO - Erfolgsrate: 0.0%
+2025-07-07 20:12:55,708 - INFO - 2500 User-Agents aus /home/christoph/antenne-server/useragents.txt geladen.
+2025-07-07 20:12:55,709 - INFO - Starte unbegrenzten Test-Loop
+2025-07-07 20:12:55,709 - INFO - 'I still don't care about cookies'-Erweiterung geladen aus: /home/christoph/antenne-server/idcac_extension
+2025-07-07 20:12:58,380 - INFO - Chromium-Browser erfolgreich gestartet
+2025-07-07 20:12:58,380 - INFO - 
+--- Durchlauf 1 (unbegrenzt) ---
+2025-07-07 20:12:58,381 - INFO - Versuch #1 gestartet
+2025-07-07 20:13:00,530 - INFO - Zoom auf 30% gesetzt
+2025-07-07 20:13:00,618 - INFO - Anti-Bot-Erkennung: navigator.webdriver & Plugins gefälscht
+2025-07-07 20:13:00,637 - INFO - Website geladen: https://www.antenne.de/programm/aktionen/die-antenne-bayern-schulhof-gigs/schulen/13248-gymnasium-markt-indersdorf
+2025-07-07 20:13:00,637 - INFO - Überprüfe auf Cookie-Banner (Fallback)...
+2025-07-07 20:13:03,750 - INFO - Kein Cookie-Banner gefunden (Timeout).
+2025-07-07 20:13:03,812 - INFO - Element geklickt: voteIntendButton
+2025-07-07 20:13:05,576 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/aside/label
+2025-07-07 20:13:06,057 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/div/div/div[1]/div/div/div/button
+2025-07-07 20:13:09,494 - INFO - Element geklickt: votingButton
+2025-07-07 20:13:09,844 - INFO - Versuch erfolgreich abgeschlossen!
+2025-07-07 20:13:10,577 - INFO - Erfolgsrate pro Minute: 4.04
+2025-07-07 20:13:10,577 - INFO - Erfolgreiche Versuche: 1
+2025-07-07 20:13:10,577 - INFO - Fehlgeschlagene Versuche: 0
+2025-07-07 20:13:10,577 - INFO - Erfolgsrate: 100.0%
+2025-07-07 20:13:20,578 - INFO - 
+--- Durchlauf 2 (unbegrenzt) ---
+2025-07-07 20:13:20,810 - INFO - Browser geschlossen
+2025-07-07 20:13:20,810 - INFO - 
+=== FINALE STATISTIKEN ===
+2025-07-07 20:13:20,811 - INFO - Gesamte Versuche: 1
+2025-07-07 20:13:20,811 - INFO - Erfolgreiche Versuche: 1
+2025-07-07 20:13:20,811 - INFO - Fehlgeschlagene Versuche: 0
+2025-07-07 20:13:20,811 - INFO - Erfolgsrate: 100.0%
+2025-07-07 20:13:20,811 - INFO - 'I still don't care about cookies'-Erweiterung geladen aus: /home/christoph/antenne-server/idcac_extension
+2025-07-07 20:13:21,500 - INFO - Chromium-Browser erfolgreich gestartet
+2025-07-07 20:13:21,501 - INFO - Versuch #2 gestartet
+2025-07-07 20:13:23,213 - INFO - Zoom auf 30% gesetzt
+2025-07-07 20:13:23,284 - INFO - Anti-Bot-Erkennung: navigator.webdriver & Plugins gefälscht
+2025-07-07 20:13:23,298 - INFO - Website geladen: https://www.antenne.de/programm/aktionen/die-antenne-bayern-schulhof-gigs/schulen/13248-gymnasium-markt-indersdorf
+2025-07-07 20:13:23,298 - INFO - Überprüfe auf Cookie-Banner (Fallback)...
+2025-07-07 20:13:26,412 - INFO - Kein Cookie-Banner gefunden (Timeout).
+2025-07-07 20:13:26,468 - INFO - Element geklickt: voteIntendButton
+2025-07-07 20:13:28,557 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/aside/label
+2025-07-07 20:13:28,840 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/div/div/div[1]/div/div/div/button
+2025-07-07 20:13:32,346 - INFO - Element geklickt: votingButton
+2025-07-07 20:13:32,751 - INFO - Versuch erfolgreich abgeschlossen!
+2025-07-07 20:13:33,507 - INFO - Erfolgsrate pro Minute: 3.17
+2025-07-07 20:13:33,507 - INFO - Erfolgreiche Versuche: 2
+2025-07-07 20:13:33,507 - INFO - Fehlgeschlagene Versuche: 0
+2025-07-07 20:13:33,507 - INFO - Erfolgsrate: 100.0%
+2025-07-07 20:13:43,507 - INFO - 
+--- Durchlauf 3 (unbegrenzt) ---
+2025-07-07 20:13:43,755 - INFO - Browser geschlossen
+2025-07-07 20:13:43,755 - INFO - 
+=== FINALE STATISTIKEN ===
+2025-07-07 20:13:43,756 - INFO - Gesamte Versuche: 2
+2025-07-07 20:13:43,756 - INFO - Erfolgreiche Versuche: 2
+2025-07-07 20:13:43,756 - INFO - Fehlgeschlagene Versuche: 0
+2025-07-07 20:13:43,756 - INFO - Erfolgsrate: 100.0%
+2025-07-07 20:13:43,756 - INFO - 'I still don't care about cookies'-Erweiterung geladen aus: /home/christoph/antenne-server/idcac_extension
+2025-07-07 20:13:44,474 - INFO - Chromium-Browser erfolgreich gestartet
+2025-07-07 20:13:44,474 - INFO - Versuch #3 gestartet
+2025-07-07 20:13:45,503 - INFO - Zoom auf 30% gesetzt
+2025-07-07 20:13:45,654 - INFO - Anti-Bot-Erkennung: navigator.webdriver & Plugins gefälscht
+2025-07-07 20:13:45,662 - INFO - Website geladen: https://www.antenne.de/programm/aktionen/die-antenne-bayern-schulhof-gigs/schulen/13248-gymnasium-markt-indersdorf
+2025-07-07 20:13:45,662 - INFO - Überprüfe auf Cookie-Banner (Fallback)...
+2025-07-07 20:13:48,805 - INFO - Kein Cookie-Banner gefunden (Timeout).
+2025-07-07 20:13:48,856 - INFO - Element geklickt: voteIntendButton
+2025-07-07 20:13:51,011 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/aside/label
+2025-07-07 20:13:51,313 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/div/div/div[1]/div/div/div/button
+2025-07-07 20:13:56,918 - INFO - Element geklickt: votingButton
+2025-07-07 20:13:57,193 - INFO - Versuch erfolgreich abgeschlossen!
+2025-07-07 20:13:57,906 - INFO - Erfolgsrate pro Minute: 2.89
+2025-07-07 20:13:57,906 - INFO - Erfolgreiche Versuche: 3
+2025-07-07 20:13:57,906 - INFO - Fehlgeschlagene Versuche: 0
+2025-07-07 20:13:57,906 - INFO - Erfolgsrate: 100.0%
+2025-07-07 20:14:07,906 - INFO - 
+--- Durchlauf 4 (unbegrenzt) ---
+2025-07-07 20:14:08,101 - INFO - Browser geschlossen
+2025-07-07 20:14:08,101 - INFO - 
+=== FINALE STATISTIKEN ===
+2025-07-07 20:14:08,101 - INFO - Gesamte Versuche: 3
+2025-07-07 20:14:08,101 - INFO - Erfolgreiche Versuche: 3
+2025-07-07 20:14:08,101 - INFO - Fehlgeschlagene Versuche: 0
+2025-07-07 20:14:08,101 - INFO - Erfolgsrate: 100.0%
+2025-07-07 20:14:08,102 - INFO - 'I still don't care about cookies'-Erweiterung geladen aus: /home/christoph/antenne-server/idcac_extension
+2025-07-07 20:14:08,553 - INFO - Chromium-Browser erfolgreich gestartet
+2025-07-07 20:14:08,553 - INFO - Versuch #4 gestartet
+2025-07-07 20:14:09,662 - INFO - Zoom auf 30% gesetzt
+2025-07-07 20:14:09,814 - INFO - Anti-Bot-Erkennung: navigator.webdriver & Plugins gefälscht
+2025-07-07 20:14:09,821 - INFO - Website geladen: https://www.antenne.de/programm/aktionen/die-antenne-bayern-schulhof-gigs/schulen/13248-gymnasium-markt-indersdorf
+2025-07-07 20:14:09,821 - INFO - Überprüfe auf Cookie-Banner (Fallback)...
+2025-07-07 20:14:13,013 - INFO - Kein Cookie-Banner gefunden (Timeout).
+2025-07-07 20:14:13,160 - INFO - Element geklickt: voteIntendButton
+2025-07-07 20:14:14,349 - INFO - Test durch Benutzer abgebrochen
+2025-07-07 20:14:14,351 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x78c5accd2450>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/269af91bb8102ec5deaadeb211ed1307
+2025-07-07 20:14:14,351 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x78c5accd0110>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/269af91bb8102ec5deaadeb211ed1307
+2025-07-07 20:14:14,352 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x78c5accd2750>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/269af91bb8102ec5deaadeb211ed1307
+2025-07-07 20:14:14,353 - INFO - Browser geschlossen
+2025-07-07 20:14:14,353 - INFO - 
+=== FINALE STATISTIKEN ===
+2025-07-07 20:14:14,353 - INFO - Gesamte Versuche: 4
+2025-07-07 20:14:14,354 - INFO - Erfolgreiche Versuche: 3
+2025-07-07 20:14:14,354 - INFO - Fehlgeschlagene Versuche: 0
+2025-07-07 20:14:14,354 - INFO - Erfolgsrate: 75.0%
+2025-07-07 20:18:47,190 - INFO - 2500 User-Agents aus /home/christoph/antenne-server/useragents.txt geladen.
+2025-07-07 20:18:47,190 - INFO - Starte unbegrenzten Test-Loop
+2025-07-07 20:18:47,190 - INFO - 'I still don't care about cookies'-Erweiterung geladen aus: /home/christoph/antenne-server/idcac_extension
+2025-07-07 20:18:47,918 - INFO - Chromium-Browser erfolgreich gestartet
+2025-07-07 20:18:47,919 - INFO - 
+--- Durchlauf 1 (unbegrenzt) ---
+2025-07-07 20:18:47,919 - INFO - Versuch #1 gestartet
+2025-07-07 20:18:49,662 - INFO - Zoom auf 30% gesetzt
+2025-07-07 20:18:49,749 - INFO - Anti-Bot-Erkennung: navigator.webdriver & Plugins gefälscht
+2025-07-07 20:18:49,933 - INFO - Website geladen: https://www.antenne.de/programm/aktionen/die-antenne-bayern-schulhof-gigs/schulen/13248-gymnasium-markt-indersdorf
+2025-07-07 20:18:49,933 - INFO - Überprüfe auf Cookie-Banner (Fallback)...
+2025-07-07 20:18:53,088 - INFO - Kein Cookie-Banner gefunden (Timeout).
+2025-07-07 20:18:53,195 - INFO - Element geklickt: voteIntendButton
+2025-07-07 20:18:54,912 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/aside/label
+2025-07-07 20:18:55,216 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/div/div/div[1]/div/div/div/button
+2025-07-07 20:18:58,149 - INFO - Element geklickt: votingButton
+2025-07-07 20:18:58,423 - INFO - Versuch erfolgreich abgeschlossen!
+2025-07-07 20:18:59,130 - INFO - Erfolgsrate pro Minute: 5.03
+2025-07-07 20:18:59,130 - INFO - Erfolgreiche Versuche: 1
+2025-07-07 20:18:59,130 - INFO - Fehlgeschlagene Versuche: 0
+2025-07-07 20:18:59,130 - INFO - Erfolgsrate: 100.0%
+2025-07-07 20:19:09,131 - INFO - 
+--- Durchlauf 2 (unbegrenzt) ---
+2025-07-07 20:19:09,330 - INFO - Browser geschlossen
+2025-07-07 20:19:09,330 - INFO - 
+=== FINALE STATISTIKEN ===
+2025-07-07 20:19:09,330 - INFO - Gesamte Versuche: 1
+2025-07-07 20:19:09,330 - INFO - Erfolgreiche Versuche: 1
+2025-07-07 20:19:09,330 - INFO - Fehlgeschlagene Versuche: 0
+2025-07-07 20:19:09,330 - INFO - Erfolgsrate: 100.0%
+2025-07-07 20:19:09,331 - INFO - 'I still don't care about cookies'-Erweiterung geladen aus: /home/christoph/antenne-server/idcac_extension
+2025-07-07 20:19:09,929 - INFO - Chromium-Browser erfolgreich gestartet
+2025-07-07 20:19:09,929 - INFO - Versuch #2 gestartet
+2025-07-07 20:19:11,532 - INFO - Zoom auf 30% gesetzt
+2025-07-07 20:19:11,671 - INFO - Anti-Bot-Erkennung: navigator.webdriver & Plugins gefälscht
+2025-07-07 20:19:11,679 - INFO - Website geladen: https://www.antenne.de/programm/aktionen/die-antenne-bayern-schulhof-gigs/schulen/13248-gymnasium-markt-indersdorf
+2025-07-07 20:19:11,679 - INFO - Überprüfe auf Cookie-Banner (Fallback)...
+2025-07-07 20:19:14,821 - INFO - Kein Cookie-Banner gefunden (Timeout).
+2025-07-07 20:19:14,899 - INFO - Element geklickt: voteIntendButton
+2025-07-07 20:19:16,272 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/aside/label
+2025-07-07 20:19:16,590 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/div/div/div[1]/div/div/div/button
+2025-07-07 20:19:20,032 - INFO - Element geklickt: votingButton
+2025-07-07 20:19:20,349 - INFO - Versuch erfolgreich abgeschlossen!
+2025-07-07 20:19:21,093 - INFO - Erfolgsrate pro Minute: 3.54
+2025-07-07 20:19:21,093 - INFO - Erfolgreiche Versuche: 2
+2025-07-07 20:19:21,093 - INFO - Fehlgeschlagene Versuche: 0
+2025-07-07 20:19:21,093 - INFO - Erfolgsrate: 100.0%
+2025-07-07 20:19:29,128 - INFO - Test durch Benutzer abgebrochen
+2025-07-07 20:19:29,130 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(104, 'Connection reset by peer')': /session/420ea4c3708fa6c5bdce4e87db021dda
+2025-07-07 20:19:29,131 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7e4d8554ae90>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/420ea4c3708fa6c5bdce4e87db021dda
+2025-07-07 20:19:29,132 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7e4d8554b490>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/420ea4c3708fa6c5bdce4e87db021dda
+2025-07-07 20:19:29,132 - INFO - Browser geschlossen
+2025-07-07 20:19:29,133 - INFO - 
+=== FINALE STATISTIKEN ===
+2025-07-07 20:19:29,133 - INFO - Gesamte Versuche: 2
+2025-07-07 20:19:29,133 - INFO - Erfolgreiche Versuche: 2
+2025-07-07 20:19:29,133 - INFO - Fehlgeschlagene Versuche: 0
+2025-07-07 20:19:29,133 - INFO - Erfolgsrate: 100.0%
+2025-07-07 20:30:10,403 - INFO - 2500 User-Agents aus /home/christoph/antenne-server/useragents.txt geladen.
+2025-07-07 20:30:10,403 - INFO - Starte unbegrenzten Test-Loop
+2025-07-07 20:30:10,403 - INFO - 'I still don't care about cookies'-Erweiterung geladen aus: /home/christoph/antenne-server/idcac_extension
+2025-07-07 20:30:10,715 - INFO - Chromium-Browser erfolgreich gestartet
+2025-07-07 20:30:10,715 - INFO - 
+--- Durchlauf 1 (unbegrenzt) ---
+2025-07-07 20:30:10,715 - INFO - Versuch #1 gestartet
+2025-07-07 20:30:11,339 - INFO - Zoom auf 30% gesetzt
+2025-07-07 20:30:11,439 - INFO - Anti-Bot-Erkennung: navigator.webdriver & Plugins gefälscht
+2025-07-07 20:30:11,488 - INFO - Website geladen: https://www.antenne.de/programm/aktionen/die-antenne-bayern-schulhof-gigs/schulen/13248-gymnasium-markt-indersdorf
+2025-07-07 20:30:11,488 - INFO - Überprüfe auf Cookie-Banner (Fallback)...
+2025-07-07 20:30:14,575 - INFO - Kein Cookie-Banner gefunden (Timeout).
+2025-07-07 20:30:14,620 - INFO - Element geklickt: voteIntendButton
+2025-07-07 20:30:16,485 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/aside/label
+2025-07-07 20:30:16,771 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/div/div/div[1]/div/div/div/button
+2025-07-07 20:30:19,123 - INFO - Element geklickt: votingButton
+2025-07-07 20:30:19,419 - INFO - Versuch erfolgreich abgeschlossen!
+2025-07-07 20:30:20,113 - INFO - Erfolgsrate pro Minute: 6.18
+2025-07-07 20:30:20,113 - INFO - Erfolgreiche Versuche: 1
+2025-07-07 20:30:20,113 - INFO - Fehlgeschlagene Versuche: 0
+2025-07-07 20:30:20,113 - INFO - Erfolgsrate: 100.0%
+2025-07-07 20:30:30,113 - INFO - 
+--- Durchlauf 2 (unbegrenzt) ---
+2025-07-07 20:30:30,243 - INFO - Browser geschlossen
+2025-07-07 20:30:30,243 - INFO - 
+=== FINALE STATISTIKEN ===
+2025-07-07 20:30:30,243 - INFO - Gesamte Versuche: 1
+2025-07-07 20:30:30,243 - INFO - Erfolgreiche Versuche: 1
+2025-07-07 20:30:30,243 - INFO - Fehlgeschlagene Versuche: 0
+2025-07-07 20:30:30,243 - INFO - Erfolgsrate: 100.0%
+2025-07-07 20:30:30,243 - INFO - 'I still don't care about cookies'-Erweiterung geladen aus: /home/christoph/antenne-server/idcac_extension
+2025-07-07 20:30:30,490 - INFO - Chromium-Browser erfolgreich gestartet
+2025-07-07 20:30:30,490 - INFO - Versuch #2 gestartet
+2025-07-07 20:30:31,132 - INFO - Zoom auf 30% gesetzt
+2025-07-07 20:30:31,138 - INFO - Anti-Bot-Erkennung: navigator.webdriver & Plugins gefälscht
+2025-07-07 20:30:31,166 - INFO - Website geladen: https://www.antenne.de/programm/aktionen/die-antenne-bayern-schulhof-gigs/schulen/13248-gymnasium-markt-indersdorf
+2025-07-07 20:30:31,166 - INFO - Überprüfe auf Cookie-Banner (Fallback)...
+2025-07-07 20:30:34,255 - INFO - Kein Cookie-Banner gefunden (Timeout).
+2025-07-07 20:30:34,301 - INFO - Element geklickt: voteIntendButton
+2025-07-07 20:30:36,205 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/aside/label
+2025-07-07 20:30:36,492 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/div/div/div[1]/div/div/div/button
+2025-07-07 20:30:38,844 - INFO - Element geklickt: votingButton
+2025-07-07 20:30:39,109 - INFO - Versuch erfolgreich abgeschlossen!
+2025-07-07 20:30:39,784 - INFO - Erfolgsrate pro Minute: 4.08
+2025-07-07 20:30:39,784 - INFO - Erfolgreiche Versuche: 2
+2025-07-07 20:30:39,784 - INFO - Fehlgeschlagene Versuche: 0
+2025-07-07 20:30:39,784 - INFO - Erfolgsrate: 100.0%
+2025-07-07 20:30:49,784 - INFO - 
+--- Durchlauf 3 (unbegrenzt) ---
+2025-07-07 20:30:49,947 - INFO - Browser geschlossen
+2025-07-07 20:30:49,947 - INFO - 
+=== FINALE STATISTIKEN ===
+2025-07-07 20:30:49,947 - INFO - Gesamte Versuche: 2
+2025-07-07 20:30:49,947 - INFO - Erfolgreiche Versuche: 2
+2025-07-07 20:30:49,947 - INFO - Fehlgeschlagene Versuche: 0
+2025-07-07 20:30:49,947 - INFO - Erfolgsrate: 100.0%
+2025-07-07 20:30:49,947 - INFO - 'I still don't care about cookies'-Erweiterung geladen aus: /home/christoph/antenne-server/idcac_extension
+2025-07-07 20:30:50,224 - INFO - Chromium-Browser erfolgreich gestartet
+2025-07-07 20:30:50,224 - INFO - Versuch #3 gestartet
+2025-07-07 20:30:51,050 - INFO - Zoom auf 30% gesetzt
+2025-07-07 20:30:51,055 - INFO - Anti-Bot-Erkennung: navigator.webdriver & Plugins gefälscht
+2025-07-07 20:30:51,083 - INFO - Website geladen: https://www.antenne.de/programm/aktionen/die-antenne-bayern-schulhof-gigs/schulen/13248-gymnasium-markt-indersdorf
+2025-07-07 20:30:51,083 - INFO - Überprüfe auf Cookie-Banner (Fallback)...
+2025-07-07 20:30:54,170 - INFO - Kein Cookie-Banner gefunden (Timeout).
+2025-07-07 20:30:54,221 - INFO - Element geklickt: voteIntendButton
+2025-07-07 20:30:56,132 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/aside/label
+2025-07-07 20:30:56,414 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/div/div/div[1]/div/div/div/button
+2025-07-07 20:30:58,248 - INFO - Element geklickt: votingButton
+2025-07-07 20:30:58,513 - INFO - Versuch erfolgreich abgeschlossen!
+2025-07-07 20:30:59,007 - INFO - Erfolgsrate pro Minute: 3.70
+2025-07-07 20:30:59,007 - INFO - Erfolgreiche Versuche: 3
+2025-07-07 20:30:59,007 - INFO - Fehlgeschlagene Versuche: 0
+2025-07-07 20:30:59,007 - INFO - Erfolgsrate: 100.0%
+2025-07-07 20:31:00,681 - INFO - Test durch Benutzer abgebrochen
+2025-07-07 20:31:00,682 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(104, 'Connection reset by peer')': /session/97b75d6707c080f49ff2eb242a37eadf
+2025-07-07 20:31:00,682 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7a3d64ed1190>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/97b75d6707c080f49ff2eb242a37eadf
+2025-07-07 20:31:00,683 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7a3d64ed2010>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/97b75d6707c080f49ff2eb242a37eadf
+2025-07-07 20:31:00,683 - INFO - Browser geschlossen
+2025-07-07 20:31:00,683 - INFO - 
+=== FINALE STATISTIKEN ===
+2025-07-07 20:31:00,683 - INFO - Gesamte Versuche: 3
+2025-07-07 20:31:00,683 - INFO - Erfolgreiche Versuche: 3
+2025-07-07 20:31:00,683 - INFO - Fehlgeschlagene Versuche: 0
+2025-07-07 20:31:00,683 - INFO - Erfolgsrate: 100.0%
+2025-07-07 20:31:02,473 - INFO - 2500 User-Agents aus /home/christoph/antenne-server/useragents.txt geladen.
+2025-07-07 20:31:02,473 - INFO - Starte unbegrenzten Test-Loop
+2025-07-07 20:31:02,473 - INFO - 'I still don't care about cookies'-Erweiterung geladen aus: /home/christoph/antenne-server/idcac_extension
+2025-07-07 20:31:02,749 - INFO - Chromium-Browser erfolgreich gestartet
+2025-07-07 20:31:02,749 - INFO - 
+--- Durchlauf 1 (unbegrenzt) ---
+2025-07-07 20:31:02,749 - INFO - Versuch #1 gestartet
+2025-07-07 20:31:03,371 - INFO - Zoom auf 30% gesetzt
+2025-07-07 20:31:03,474 - INFO - Anti-Bot-Erkennung: navigator.webdriver & Plugins gefälscht
+2025-07-07 20:31:03,525 - INFO - Website geladen: https://www.antenne.de/programm/aktionen/die-antenne-bayern-schulhof-gigs/schulen/13248-gymnasium-markt-indersdorf
+2025-07-07 20:31:03,525 - INFO - Überprüfe auf Cookie-Banner (Fallback)...
+2025-07-07 20:31:06,611 - INFO - Kein Cookie-Banner gefunden (Timeout).
+2025-07-07 20:31:06,655 - INFO - Element geklickt: voteIntendButton
+2025-07-07 20:31:08,598 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/aside/label
+2025-07-07 20:31:08,882 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/div/div/div[1]/div/div/div/button
+2025-07-07 20:31:11,750 - INFO - Element geklickt: votingButton
+2025-07-07 20:31:12,020 - INFO - Versuch erfolgreich abgeschlossen!
+2025-07-07 20:31:12,701 - INFO - Erfolgsrate pro Minute: 5.87
+2025-07-07 20:31:12,702 - INFO - Erfolgreiche Versuche: 1
+2025-07-07 20:31:12,702 - INFO - Fehlgeschlagene Versuche: 0
+2025-07-07 20:31:12,702 - INFO - Erfolgsrate: 100.0%
+2025-07-07 20:31:22,702 - INFO - 
+--- Durchlauf 2 (unbegrenzt) ---
+2025-07-07 20:31:22,832 - INFO - Browser geschlossen
+2025-07-07 20:31:22,832 - INFO - 
+=== FINALE STATISTIKEN ===
+2025-07-07 20:31:22,832 - INFO - Gesamte Versuche: 1
+2025-07-07 20:31:22,832 - INFO - Erfolgreiche Versuche: 1
+2025-07-07 20:31:22,832 - INFO - Fehlgeschlagene Versuche: 0
+2025-07-07 20:31:22,832 - INFO - Erfolgsrate: 100.0%
+2025-07-07 20:31:22,832 - INFO - 'I still don't care about cookies'-Erweiterung geladen aus: /home/christoph/antenne-server/idcac_extension
+2025-07-07 20:31:23,147 - INFO - Chromium-Browser erfolgreich gestartet
+2025-07-07 20:31:23,147 - INFO - Versuch #2 gestartet
+2025-07-07 20:31:23,797 - INFO - Zoom auf 30% gesetzt
+2025-07-07 20:31:23,804 - INFO - Anti-Bot-Erkennung: navigator.webdriver & Plugins gefälscht
+2025-07-07 20:31:23,850 - INFO - Website geladen: https://www.antenne.de/programm/aktionen/die-antenne-bayern-schulhof-gigs/schulen/13248-gymnasium-markt-indersdorf
+2025-07-07 20:31:23,850 - INFO - Überprüfe auf Cookie-Banner (Fallback)...
+2025-07-07 20:31:26,937 - INFO - Kein Cookie-Banner gefunden (Timeout).
+2025-07-07 20:31:26,983 - INFO - Element geklickt: voteIntendButton
+2025-07-07 20:31:28,930 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/aside/label
+2025-07-07 20:31:29,214 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/div/div/div[1]/div/div/div/button
+2025-07-07 20:31:31,061 - INFO - Element geklickt: votingButton
+2025-07-07 20:31:31,330 - INFO - Versuch erfolgreich abgeschlossen!
+2025-07-07 20:31:32,005 - INFO - Erfolgsrate pro Minute: 4.06
+2025-07-07 20:31:32,005 - INFO - Erfolgreiche Versuche: 2
+2025-07-07 20:31:32,005 - INFO - Fehlgeschlagene Versuche: 0
+2025-07-07 20:31:32,005 - INFO - Erfolgsrate: 100.0%
+2025-07-07 20:31:42,006 - INFO - 
+--- Durchlauf 3 (unbegrenzt) ---
+2025-07-07 20:31:42,202 - INFO - Browser geschlossen
+2025-07-07 20:31:42,202 - INFO - 
+=== FINALE STATISTIKEN ===
+2025-07-07 20:31:42,202 - INFO - Gesamte Versuche: 2
+2025-07-07 20:31:42,202 - INFO - Erfolgreiche Versuche: 2
+2025-07-07 20:31:42,202 - INFO - Fehlgeschlagene Versuche: 0
+2025-07-07 20:31:42,202 - INFO - Erfolgsrate: 100.0%
+2025-07-07 20:31:42,202 - INFO - 'I still don't care about cookies'-Erweiterung geladen aus: /home/christoph/antenne-server/idcac_extension
+2025-07-07 20:31:42,513 - INFO - Chromium-Browser erfolgreich gestartet
+2025-07-07 20:31:42,513 - INFO - Versuch #3 gestartet
+2025-07-07 20:31:43,212 - INFO - Zoom auf 30% gesetzt
+2025-07-07 20:31:43,217 - INFO - Anti-Bot-Erkennung: navigator.webdriver & Plugins gefälscht
+2025-07-07 20:31:43,226 - INFO - Website geladen: https://www.antenne.de/programm/aktionen/die-antenne-bayern-schulhof-gigs/schulen/13248-gymnasium-markt-indersdorf
+2025-07-07 20:31:43,226 - INFO - Überprüfe auf Cookie-Banner (Fallback)...
+2025-07-07 20:31:46,333 - INFO - Kein Cookie-Banner gefunden (Timeout).
+2025-07-07 20:31:46,385 - INFO - Element geklickt: voteIntendButton
+2025-07-07 20:31:48,320 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/aside/label
+2025-07-07 20:31:48,607 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/div/div/div[1]/div/div/div/button
+2025-07-07 20:31:51,497 - INFO - Element geklickt: votingButton
+2025-07-07 20:31:51,767 - INFO - Versuch erfolgreich abgeschlossen!
+2025-07-07 20:31:52,448 - INFO - Erfolgsrate pro Minute: 3.60
+2025-07-07 20:31:52,448 - INFO - Erfolgreiche Versuche: 3
+2025-07-07 20:31:52,448 - INFO - Fehlgeschlagene Versuche: 0
+2025-07-07 20:31:52,448 - INFO - Erfolgsrate: 100.0%
+2025-07-07 20:32:02,448 - INFO - 
+--- Durchlauf 4 (unbegrenzt) ---
+2025-07-07 20:32:02,610 - INFO - Browser geschlossen
+2025-07-07 20:32:02,610 - INFO - 
+=== FINALE STATISTIKEN ===
+2025-07-07 20:32:02,610 - INFO - Gesamte Versuche: 3
+2025-07-07 20:32:02,611 - INFO - Erfolgreiche Versuche: 3
+2025-07-07 20:32:02,611 - INFO - Fehlgeschlagene Versuche: 0
+2025-07-07 20:32:02,611 - INFO - Erfolgsrate: 100.0%
+2025-07-07 20:32:02,611 - INFO - 'I still don't care about cookies'-Erweiterung geladen aus: /home/christoph/antenne-server/idcac_extension
+2025-07-07 20:32:02,917 - INFO - Chromium-Browser erfolgreich gestartet
+2025-07-07 20:32:02,918 - INFO - Versuch #4 gestartet
+2025-07-07 20:32:03,696 - INFO - Zoom auf 30% gesetzt
+2025-07-07 20:32:03,829 - INFO - Anti-Bot-Erkennung: navigator.webdriver & Plugins gefälscht
+2025-07-07 20:32:03,835 - INFO - Website geladen: https://www.antenne.de/programm/aktionen/die-antenne-bayern-schulhof-gigs/schulen/13248-gymnasium-markt-indersdorf
+2025-07-07 20:32:03,835 - INFO - Überprüfe auf Cookie-Banner (Fallback)...
+2025-07-07 20:32:06,963 - INFO - Kein Cookie-Banner gefunden (Timeout).
+2025-07-07 20:32:07,015 - INFO - Element geklickt: voteIntendButton
+2025-07-07 20:32:09,036 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/aside/label
+2025-07-07 20:32:09,327 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/div/div/div[1]/div/div/div/button
+2025-07-07 20:32:12,741 - INFO - Element geklickt: votingButton
+2025-07-07 20:32:13,019 - INFO - Versuch erfolgreich abgeschlossen!
+2025-07-07 20:32:13,713 - INFO - Erfolgsrate pro Minute: 3.37
+2025-07-07 20:32:13,713 - INFO - Erfolgreiche Versuche: 4
+2025-07-07 20:32:13,713 - INFO - Fehlgeschlagene Versuche: 0
+2025-07-07 20:32:13,714 - INFO - Erfolgsrate: 100.0%
+2025-07-07 20:32:23,714 - INFO - 
+--- Durchlauf 5 (unbegrenzt) ---
+2025-07-07 20:32:23,827 - INFO - Browser geschlossen
+2025-07-07 20:32:23,827 - INFO - 
+=== FINALE STATISTIKEN ===
+2025-07-07 20:32:23,827 - INFO - Gesamte Versuche: 4
+2025-07-07 20:32:23,827 - INFO - Erfolgreiche Versuche: 4
+2025-07-07 20:32:23,827 - INFO - Fehlgeschlagene Versuche: 0
+2025-07-07 20:32:23,827 - INFO - Erfolgsrate: 100.0%
+2025-07-07 20:32:23,827 - INFO - 'I still don't care about cookies'-Erweiterung geladen aus: /home/christoph/antenne-server/idcac_extension
+2025-07-07 20:32:24,111 - INFO - Chromium-Browser erfolgreich gestartet
+2025-07-07 20:32:24,111 - INFO - Versuch #5 gestartet
+2025-07-07 20:32:24,713 - INFO - Zoom auf 30% gesetzt
+2025-07-07 20:32:24,741 - INFO - Anti-Bot-Erkennung: navigator.webdriver & Plugins gefälscht
+2025-07-07 20:32:24,747 - INFO - Website geladen: https://www.antenne.de/programm/aktionen/die-antenne-bayern-schulhof-gigs/schulen/13248-gymnasium-markt-indersdorf
+2025-07-07 20:32:24,747 - INFO - Überprüfe auf Cookie-Banner (Fallback)...
+2025-07-07 20:32:27,841 - INFO - Kein Cookie-Banner gefunden (Timeout).
+2025-07-07 20:32:27,882 - INFO - Element geklickt: voteIntendButton
+2025-07-07 20:32:29,798 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/aside/label
+2025-07-07 20:32:30,082 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/div/div/div[1]/div/div/div/button
+2025-07-07 20:32:32,432 - INFO - Element geklickt: votingButton
+2025-07-07 20:32:32,704 - INFO - Versuch erfolgreich abgeschlossen!
+2025-07-07 20:32:33,372 - INFO - Erfolgsrate pro Minute: 3.30
+2025-07-07 20:32:33,373 - INFO - Erfolgreiche Versuche: 5
+2025-07-07 20:32:33,373 - INFO - Fehlgeschlagene Versuche: 0
+2025-07-07 20:32:33,373 - INFO - Erfolgsrate: 100.0%
+2025-07-07 20:32:43,373 - INFO - 
+--- Durchlauf 6 (unbegrenzt) ---
+2025-07-07 20:32:43,502 - INFO - Browser geschlossen
+2025-07-07 20:32:43,502 - INFO - 
+=== FINALE STATISTIKEN ===
+2025-07-07 20:32:43,502 - INFO - Gesamte Versuche: 5
+2025-07-07 20:32:43,502 - INFO - Erfolgreiche Versuche: 5
+2025-07-07 20:32:43,502 - INFO - Fehlgeschlagene Versuche: 0
+2025-07-07 20:32:43,502 - INFO - Erfolgsrate: 100.0%
+2025-07-07 20:32:43,503 - INFO - 'I still don't care about cookies'-Erweiterung geladen aus: /home/christoph/antenne-server/idcac_extension
+2025-07-07 20:32:43,850 - INFO - Chromium-Browser erfolgreich gestartet
+2025-07-07 20:32:43,851 - INFO - Versuch #6 gestartet
+2025-07-07 20:32:44,561 - INFO - Zoom auf 30% gesetzt
+2025-07-07 20:32:44,569 - INFO - Anti-Bot-Erkennung: navigator.webdriver & Plugins gefälscht
+2025-07-07 20:32:44,667 - INFO - Website geladen: https://www.antenne.de/programm/aktionen/die-antenne-bayern-schulhof-gigs/schulen/13248-gymnasium-markt-indersdorf
+2025-07-07 20:32:44,667 - INFO - Überprüfe auf Cookie-Banner (Fallback)...
+2025-07-07 20:32:47,793 - INFO - Kein Cookie-Banner gefunden (Timeout).
+2025-07-07 20:32:47,842 - INFO - Element geklickt: voteIntendButton
+2025-07-07 20:32:49,734 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/aside/label
+2025-07-07 20:32:50,024 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/div/div/div[1]/div/div/div/button
+2025-07-07 20:32:52,898 - INFO - Element geklickt: votingButton
+2025-07-07 20:32:53,167 - INFO - Versuch erfolgreich abgeschlossen!
+2025-07-07 20:32:53,889 - INFO - Erfolgsrate pro Minute: 3.23
+2025-07-07 20:32:53,889 - INFO - Erfolgreiche Versuche: 6
+2025-07-07 20:32:53,889 - INFO - Fehlgeschlagene Versuche: 0
+2025-07-07 20:32:53,890 - INFO - Erfolgsrate: 100.0%
+2025-07-07 20:33:03,890 - INFO - 
+--- Durchlauf 7 (unbegrenzt) ---
+2025-07-07 20:33:04,019 - INFO - Browser geschlossen
+2025-07-07 20:33:04,019 - INFO - 
+=== FINALE STATISTIKEN ===
+2025-07-07 20:33:04,019 - INFO - Gesamte Versuche: 6
+2025-07-07 20:33:04,019 - INFO - Erfolgreiche Versuche: 6
+2025-07-07 20:33:04,020 - INFO - Fehlgeschlagene Versuche: 0
+2025-07-07 20:33:04,020 - INFO - Erfolgsrate: 100.0%
+2025-07-07 20:33:04,020 - INFO - 'I still don't care about cookies'-Erweiterung geladen aus: /home/christoph/antenne-server/idcac_extension
+2025-07-07 20:33:04,307 - INFO - Chromium-Browser erfolgreich gestartet
+2025-07-07 20:33:04,307 - INFO - Versuch #7 gestartet
+2025-07-07 20:33:04,992 - INFO - Zoom auf 30% gesetzt
+2025-07-07 20:33:04,998 - INFO - Anti-Bot-Erkennung: navigator.webdriver & Plugins gefälscht
+2025-07-07 20:33:05,095 - INFO - Website geladen: https://www.antenne.de/programm/aktionen/die-antenne-bayern-schulhof-gigs/schulen/13248-gymnasium-markt-indersdorf
+2025-07-07 20:33:05,095 - INFO - Überprüfe auf Cookie-Banner (Fallback)...
+2025-07-07 20:33:08,187 - INFO - Kein Cookie-Banner gefunden (Timeout).
+2025-07-07 20:33:08,244 - INFO - Element geklickt: voteIntendButton
+2025-07-07 20:33:10,191 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/aside/label
+2025-07-07 20:33:10,482 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/div/div/div[1]/div/div/div/button
+2025-07-07 20:33:12,833 - INFO - Element geklickt: votingButton
+2025-07-07 20:33:13,133 - INFO - Versuch erfolgreich abgeschlossen!
+2025-07-07 20:33:13,894 - INFO - Erfolgsrate pro Minute: 3.20
+2025-07-07 20:33:13,894 - INFO - Erfolgreiche Versuche: 7
+2025-07-07 20:33:13,894 - INFO - Fehlgeschlagene Versuche: 0
+2025-07-07 20:33:13,894 - INFO - Erfolgsrate: 100.0%
+2025-07-07 20:33:23,894 - INFO - 
+--- Durchlauf 8 (unbegrenzt) ---
+2025-07-07 20:33:24,023 - INFO - Browser geschlossen
+2025-07-07 20:33:24,023 - INFO - 
+=== FINALE STATISTIKEN ===
+2025-07-07 20:33:24,023 - INFO - Gesamte Versuche: 7
+2025-07-07 20:33:24,023 - INFO - Erfolgreiche Versuche: 7
+2025-07-07 20:33:24,023 - INFO - Fehlgeschlagene Versuche: 0
+2025-07-07 20:33:24,024 - INFO - Erfolgsrate: 100.0%
+2025-07-07 20:33:24,024 - INFO - 'I still don't care about cookies'-Erweiterung geladen aus: /home/christoph/antenne-server/idcac_extension
+2025-07-07 20:33:24,349 - INFO - Chromium-Browser erfolgreich gestartet
+2025-07-07 20:33:24,349 - INFO - Versuch #8 gestartet
+2025-07-07 20:33:25,045 - INFO - Zoom auf 30% gesetzt
+2025-07-07 20:33:25,151 - INFO - Anti-Bot-Erkennung: navigator.webdriver & Plugins gefälscht
+2025-07-07 20:33:25,161 - INFO - Website geladen: https://www.antenne.de/programm/aktionen/die-antenne-bayern-schulhof-gigs/schulen/13248-gymnasium-markt-indersdorf
+2025-07-07 20:33:25,161 - INFO - Überprüfe auf Cookie-Banner (Fallback)...
+2025-07-07 20:33:28,284 - INFO - Kein Cookie-Banner gefunden (Timeout).
+2025-07-07 20:33:28,330 - INFO - Element geklickt: voteIntendButton
+2025-07-07 20:33:30,229 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/aside/label
+2025-07-07 20:33:30,515 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/div/div/div[1]/div/div/div/button
+2025-07-07 20:33:32,871 - INFO - Element geklickt: votingButton
+2025-07-07 20:33:33,139 - INFO - Versuch erfolgreich abgeschlossen!
+2025-07-07 20:33:33,843 - INFO - Erfolgsrate pro Minute: 3.17
+2025-07-07 20:33:33,843 - INFO - Erfolgreiche Versuche: 8
+2025-07-07 20:33:33,843 - INFO - Fehlgeschlagene Versuche: 0
+2025-07-07 20:33:33,843 - INFO - Erfolgsrate: 100.0%
+2025-07-07 20:33:43,843 - INFO - 
+--- Durchlauf 9 (unbegrenzt) ---
+2025-07-07 20:33:44,007 - INFO - Browser geschlossen
+2025-07-07 20:33:44,007 - INFO - 
+=== FINALE STATISTIKEN ===
+2025-07-07 20:33:44,007 - INFO - Gesamte Versuche: 8
+2025-07-07 20:33:44,007 - INFO - Erfolgreiche Versuche: 8
+2025-07-07 20:33:44,007 - INFO - Fehlgeschlagene Versuche: 0
+2025-07-07 20:33:44,007 - INFO - Erfolgsrate: 100.0%
+2025-07-07 20:33:44,008 - INFO - 'I still don't care about cookies'-Erweiterung geladen aus: /home/christoph/antenne-server/idcac_extension
+2025-07-07 20:33:44,373 - INFO - Chromium-Browser erfolgreich gestartet
+2025-07-07 20:33:44,373 - INFO - Versuch #9 gestartet
+2025-07-07 20:33:44,987 - INFO - Zoom auf 30% gesetzt
+2025-07-07 20:33:44,994 - INFO - Anti-Bot-Erkennung: navigator.webdriver & Plugins gefälscht
+2025-07-07 20:33:45,026 - INFO - Website geladen: https://www.antenne.de/programm/aktionen/die-antenne-bayern-schulhof-gigs/schulen/13248-gymnasium-markt-indersdorf
+2025-07-07 20:33:45,026 - INFO - Überprüfe auf Cookie-Banner (Fallback)...
+2025-07-07 20:33:48,197 - INFO - Kein Cookie-Banner gefunden (Timeout).
+2025-07-07 20:33:48,244 - INFO - Element geklickt: voteIntendButton
+2025-07-07 20:33:48,560 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/aside/label
+2025-07-07 20:33:52,938 - WARNING - Element nicht gefunden: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/div/div/div[1]/div/div/div/button (Timeout: 4s)
+2025-07-07 20:33:52,938 - ERROR - Schritt 3 fehlgeschlagen: Dritter Button nicht gefunden
+2025-07-07 20:33:52,938 - INFO - Erfolgsrate pro Minute: 2.82
+2025-07-07 20:33:52,938 - INFO - Erfolgreiche Versuche: 8
+2025-07-07 20:33:52,938 - INFO - Fehlgeschlagene Versuche: 1
+2025-07-07 20:33:52,938 - INFO - Erfolgsrate: 88.9%
+2025-07-07 20:34:02,939 - INFO - 
+--- Durchlauf 10 (unbegrenzt) ---
+2025-07-07 20:34:03,101 - INFO - Browser geschlossen
+2025-07-07 20:34:03,101 - INFO - 
+=== FINALE STATISTIKEN ===
+2025-07-07 20:34:03,101 - INFO - Gesamte Versuche: 9
+2025-07-07 20:34:03,101 - INFO - Erfolgreiche Versuche: 8
+2025-07-07 20:34:03,101 - INFO - Fehlgeschlagene Versuche: 1
+2025-07-07 20:34:03,102 - INFO - Erfolgsrate: 88.9%
+2025-07-07 20:34:03,102 - INFO - 'I still don't care about cookies'-Erweiterung geladen aus: /home/christoph/antenne-server/idcac_extension
+2025-07-07 20:34:03,372 - INFO - Chromium-Browser erfolgreich gestartet
+2025-07-07 20:34:03,372 - INFO - Versuch #10 gestartet
+2025-07-07 20:34:04,138 - INFO - Zoom auf 30% gesetzt
+2025-07-07 20:34:04,145 - INFO - Anti-Bot-Erkennung: navigator.webdriver & Plugins gefälscht
+2025-07-07 20:34:04,241 - INFO - Website geladen: https://www.antenne.de/programm/aktionen/die-antenne-bayern-schulhof-gigs/schulen/13248-gymnasium-markt-indersdorf
+2025-07-07 20:34:04,241 - INFO - Überprüfe auf Cookie-Banner (Fallback)...
+2025-07-07 20:34:07,329 - INFO - Kein Cookie-Banner gefunden (Timeout).
+2025-07-07 20:34:07,376 - INFO - Element geklickt: voteIntendButton
+2025-07-07 20:34:09,307 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/aside/label
+2025-07-07 20:34:09,592 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/div/div/div[1]/div/div/div/button
+2025-07-07 20:34:11,435 - INFO - Element geklickt: votingButton
+2025-07-07 20:34:11,705 - INFO - Versuch erfolgreich abgeschlossen!
+2025-07-07 20:34:12,474 - INFO - Erfolgsrate pro Minute: 2.84
+2025-07-07 20:34:12,474 - INFO - Erfolgreiche Versuche: 9
+2025-07-07 20:34:12,474 - INFO - Fehlgeschlagene Versuche: 1
+2025-07-07 20:34:12,474 - INFO - Erfolgsrate: 90.0%
+2025-07-07 20:34:22,475 - INFO - 
+--- Durchlauf 11 (unbegrenzt) ---
+2025-07-07 20:34:22,637 - INFO - Browser geschlossen
+2025-07-07 20:34:22,637 - INFO - 
+=== FINALE STATISTIKEN ===
+2025-07-07 20:34:22,637 - INFO - Gesamte Versuche: 10
+2025-07-07 20:34:22,637 - INFO - Erfolgreiche Versuche: 9
+2025-07-07 20:34:22,637 - INFO - Fehlgeschlagene Versuche: 1
+2025-07-07 20:34:22,637 - INFO - Erfolgsrate: 90.0%
+2025-07-07 20:34:22,637 - INFO - 'I still don't care about cookies'-Erweiterung geladen aus: /home/christoph/antenne-server/idcac_extension
+2025-07-07 20:34:22,914 - INFO - Chromium-Browser erfolgreich gestartet
+2025-07-07 20:34:22,914 - INFO - Versuch #11 gestartet
+2025-07-07 20:34:23,537 - INFO - Zoom auf 30% gesetzt
+2025-07-07 20:34:23,543 - INFO - Anti-Bot-Erkennung: navigator.webdriver & Plugins gefälscht
+2025-07-07 20:34:23,572 - INFO - Website geladen: https://www.antenne.de/programm/aktionen/die-antenne-bayern-schulhof-gigs/schulen/13248-gymnasium-markt-indersdorf
+2025-07-07 20:34:23,572 - INFO - Überprüfe auf Cookie-Banner (Fallback)...
+2025-07-07 20:34:26,746 - INFO - Kein Cookie-Banner gefunden (Timeout).
+2025-07-07 20:34:26,795 - INFO - Element geklickt: voteIntendButton
+2025-07-07 20:34:28,660 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/aside/label
+2025-07-07 20:34:28,950 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/div/div/div[1]/div/div/div/button
+2025-07-07 20:34:31,295 - INFO - Element geklickt: votingButton
+2025-07-07 20:34:31,589 - INFO - Versuch erfolgreich abgeschlossen!
+2025-07-07 20:34:32,287 - INFO - Erfolgsrate pro Minute: 2.86
+2025-07-07 20:34:32,287 - INFO - Erfolgreiche Versuche: 10
+2025-07-07 20:34:32,287 - INFO - Fehlgeschlagene Versuche: 1
+2025-07-07 20:34:32,287 - INFO - Erfolgsrate: 90.9%
+2025-07-07 20:34:42,287 - INFO - 
+--- Durchlauf 12 (unbegrenzt) ---
+2025-07-07 20:34:42,417 - INFO - Browser geschlossen
+2025-07-07 20:34:42,417 - INFO - 
+=== FINALE STATISTIKEN ===
+2025-07-07 20:34:42,417 - INFO - Gesamte Versuche: 11
+2025-07-07 20:34:42,417 - INFO - Erfolgreiche Versuche: 10
+2025-07-07 20:34:42,417 - INFO - Fehlgeschlagene Versuche: 1
+2025-07-07 20:34:42,417 - INFO - Erfolgsrate: 90.9%
+2025-07-07 20:34:42,417 - INFO - 'I still don't care about cookies'-Erweiterung geladen aus: /home/christoph/antenne-server/idcac_extension
+2025-07-07 20:34:42,696 - INFO - Chromium-Browser erfolgreich gestartet
+2025-07-07 20:34:42,696 - INFO - Versuch #12 gestartet
+2025-07-07 20:34:43,431 - INFO - Zoom auf 30% gesetzt
+2025-07-07 20:34:43,437 - INFO - Anti-Bot-Erkennung: navigator.webdriver & Plugins gefälscht
+2025-07-07 20:34:43,445 - INFO - Website geladen: https://www.antenne.de/programm/aktionen/die-antenne-bayern-schulhof-gigs/schulen/13248-gymnasium-markt-indersdorf
+2025-07-07 20:34:43,446 - INFO - Überprüfe auf Cookie-Banner (Fallback)...
+2025-07-07 20:34:46,568 - INFO - Kein Cookie-Banner gefunden (Timeout).
+2025-07-07 20:34:46,620 - INFO - Element geklickt: voteIntendButton
+2025-07-07 20:34:48,625 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/aside/label
+2025-07-07 20:34:48,911 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/div/div/div[1]/div/div/div/button
+2025-07-07 20:34:51,263 - INFO - Element geklickt: votingButton
+2025-07-07 20:34:51,557 - INFO - Versuch erfolgreich abgeschlossen!
+2025-07-07 20:34:52,311 - INFO - Erfolgsrate pro Minute: 2.87
+2025-07-07 20:34:52,311 - INFO - Erfolgreiche Versuche: 11
+2025-07-07 20:34:52,311 - INFO - Fehlgeschlagene Versuche: 1
+2025-07-07 20:34:52,311 - INFO - Erfolgsrate: 91.7%
+2025-07-07 20:35:02,311 - INFO - 
+--- Durchlauf 13 (unbegrenzt) ---
+2025-07-07 20:35:02,441 - INFO - Browser geschlossen
+2025-07-07 20:35:02,441 - INFO - 
+=== FINALE STATISTIKEN ===
+2025-07-07 20:35:02,441 - INFO - Gesamte Versuche: 12
+2025-07-07 20:35:02,441 - INFO - Erfolgreiche Versuche: 11
+2025-07-07 20:35:02,441 - INFO - Fehlgeschlagene Versuche: 1
+2025-07-07 20:35:02,441 - INFO - Erfolgsrate: 91.7%
+2025-07-07 20:35:02,441 - INFO - 'I still don't care about cookies'-Erweiterung geladen aus: /home/christoph/antenne-server/idcac_extension
+2025-07-07 20:35:02,752 - INFO - Chromium-Browser erfolgreich gestartet
+2025-07-07 20:35:02,752 - INFO - Versuch #13 gestartet
+2025-07-07 20:35:03,367 - INFO - Zoom auf 30% gesetzt
+2025-07-07 20:35:03,372 - INFO - Anti-Bot-Erkennung: navigator.webdriver & Plugins gefälscht
+2025-07-07 20:35:03,378 - INFO - Website geladen: https://www.antenne.de/programm/aktionen/die-antenne-bayern-schulhof-gigs/schulen/13248-gymnasium-markt-indersdorf
+2025-07-07 20:35:03,378 - INFO - Überprüfe auf Cookie-Banner (Fallback)...
+2025-07-07 20:35:06,578 - INFO - Kein Cookie-Banner gefunden (Timeout).
+2025-07-07 20:35:06,628 - INFO - Element geklickt: voteIntendButton
+2025-07-07 20:35:08,495 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/aside/label
+2025-07-07 20:35:08,782 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/div/div/div[1]/div/div/div/button
+2025-07-07 20:35:11,134 - INFO - Element geklickt: votingButton
+2025-07-07 20:35:11,398 - INFO - Versuch erfolgreich abgeschlossen!
+2025-07-07 20:35:12,132 - INFO - Erfolgsrate pro Minute: 2.88
+2025-07-07 20:35:12,132 - INFO - Erfolgreiche Versuche: 12
+2025-07-07 20:35:12,132 - INFO - Fehlgeschlagene Versuche: 1
+2025-07-07 20:35:12,133 - INFO - Erfolgsrate: 92.3%
+2025-07-07 20:35:22,133 - INFO - 
+--- Durchlauf 14 (unbegrenzt) ---
+2025-07-07 20:35:22,295 - INFO - Browser geschlossen
+2025-07-07 20:35:22,295 - INFO - 
+=== FINALE STATISTIKEN ===
+2025-07-07 20:35:22,295 - INFO - Gesamte Versuche: 13
+2025-07-07 20:35:22,295 - INFO - Erfolgreiche Versuche: 12
+2025-07-07 20:35:22,295 - INFO - Fehlgeschlagene Versuche: 1
+2025-07-07 20:35:22,295 - INFO - Erfolgsrate: 92.3%
+2025-07-07 20:35:22,295 - INFO - 'I still don't care about cookies'-Erweiterung geladen aus: /home/christoph/antenne-server/idcac_extension
+2025-07-07 20:35:22,575 - INFO - Chromium-Browser erfolgreich gestartet
+2025-07-07 20:35:22,575 - INFO - Versuch #14 gestartet
+2025-07-07 20:35:23,199 - INFO - Zoom auf 30% gesetzt
+2025-07-07 20:35:23,204 - INFO - Anti-Bot-Erkennung: navigator.webdriver & Plugins gefälscht
+2025-07-07 20:35:23,209 - INFO - Website geladen: https://www.antenne.de/programm/aktionen/die-antenne-bayern-schulhof-gigs/schulen/13248-gymnasium-markt-indersdorf
+2025-07-07 20:35:23,209 - INFO - Überprüfe auf Cookie-Banner (Fallback)...
+2025-07-07 20:35:26,363 - INFO - Kein Cookie-Banner gefunden (Timeout).
+2025-07-07 20:35:26,412 - INFO - Element geklickt: voteIntendButton
+2025-07-07 20:35:28,334 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/aside/label
+2025-07-07 20:35:28,621 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/div/div/div[1]/div/div/div/button
+2025-07-07 20:35:30,455 - INFO - Element geklickt: votingButton
+2025-07-07 20:35:30,750 - INFO - Versuch erfolgreich abgeschlossen!
+2025-07-07 20:35:31,488 - INFO - Erfolgsrate pro Minute: 2.90
+2025-07-07 20:35:31,488 - INFO - Erfolgreiche Versuche: 13
+2025-07-07 20:35:31,488 - INFO - Fehlgeschlagene Versuche: 1
+2025-07-07 20:35:31,489 - INFO - Erfolgsrate: 92.9%
+2025-07-07 20:35:41,489 - INFO - 
+--- Durchlauf 15 (unbegrenzt) ---
+2025-07-07 20:35:41,815 - INFO - Browser geschlossen
+2025-07-07 20:35:41,815 - INFO - 
+=== FINALE STATISTIKEN ===
+2025-07-07 20:35:41,816 - INFO - Gesamte Versuche: 14
+2025-07-07 20:35:41,816 - INFO - Erfolgreiche Versuche: 13
+2025-07-07 20:35:41,816 - INFO - Fehlgeschlagene Versuche: 1
+2025-07-07 20:35:41,816 - INFO - Erfolgsrate: 92.9%
+2025-07-07 20:35:41,816 - INFO - 'I still don't care about cookies'-Erweiterung geladen aus: /home/christoph/antenne-server/idcac_extension
+2025-07-07 20:35:42,091 - INFO - Chromium-Browser erfolgreich gestartet
+2025-07-07 20:35:42,091 - INFO - Versuch #15 gestartet
+2025-07-07 20:35:42,776 - INFO - Zoom auf 30% gesetzt
+2025-07-07 20:35:42,805 - INFO - Anti-Bot-Erkennung: navigator.webdriver & Plugins gefälscht
+2025-07-07 20:35:42,813 - INFO - Website geladen: https://www.antenne.de/programm/aktionen/die-antenne-bayern-schulhof-gigs/schulen/13248-gymnasium-markt-indersdorf
+2025-07-07 20:35:42,813 - INFO - Überprüfe auf Cookie-Banner (Fallback)...
+2025-07-07 20:35:45,921 - INFO - Kein Cookie-Banner gefunden (Timeout).
+2025-07-07 20:35:45,969 - INFO - Element geklickt: voteIntendButton
+2025-07-07 20:35:47,842 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/aside/label
+2025-07-07 20:35:48,131 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/div/div/div[1]/div/div/div/button
+2025-07-07 20:35:49,967 - INFO - Element geklickt: votingButton
+2025-07-07 20:35:50,234 - INFO - Versuch erfolgreich abgeschlossen!
+2025-07-07 20:35:50,972 - INFO - Erfolgsrate pro Minute: 2.91
+2025-07-07 20:35:50,972 - INFO - Erfolgreiche Versuche: 14
+2025-07-07 20:35:50,972 - INFO - Fehlgeschlagene Versuche: 1
+2025-07-07 20:35:50,972 - INFO - Erfolgsrate: 93.3%
+2025-07-07 20:36:00,973 - INFO - 
+--- Durchlauf 16 (unbegrenzt) ---
+2025-07-07 20:36:01,135 - INFO - Browser geschlossen
+2025-07-07 20:36:01,135 - INFO - 
+=== FINALE STATISTIKEN ===
+2025-07-07 20:36:01,135 - INFO - Gesamte Versuche: 15
+2025-07-07 20:36:01,135 - INFO - Erfolgreiche Versuche: 14
+2025-07-07 20:36:01,135 - INFO - Fehlgeschlagene Versuche: 1
+2025-07-07 20:36:01,135 - INFO - Erfolgsrate: 93.3%
+2025-07-07 20:36:01,135 - INFO - 'I still don't care about cookies'-Erweiterung geladen aus: /home/christoph/antenne-server/idcac_extension
+2025-07-07 20:36:01,387 - INFO - Chromium-Browser erfolgreich gestartet
+2025-07-07 20:36:01,387 - INFO - Versuch #16 gestartet
+2025-07-07 20:36:01,949 - INFO - Zoom auf 30% gesetzt
+2025-07-07 20:36:01,953 - INFO - Anti-Bot-Erkennung: navigator.webdriver & Plugins gefälscht
+2025-07-07 20:36:01,960 - INFO - Website geladen: https://www.antenne.de/programm/aktionen/die-antenne-bayern-schulhof-gigs/schulen/13248-gymnasium-markt-indersdorf
+2025-07-07 20:36:01,960 - INFO - Überprüfe auf Cookie-Banner (Fallback)...
+2025-07-07 20:36:05,105 - INFO - Kein Cookie-Banner gefunden (Timeout).
+2025-07-07 20:36:05,155 - INFO - Element geklickt: voteIntendButton
+2025-07-07 20:36:07,003 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/aside/label
+2025-07-07 20:36:07,288 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/div/div/div[1]/div/div/div/button
+2025-07-07 20:36:08,608 - INFO - Element geklickt: votingButton
+2025-07-07 20:36:08,919 - INFO - Versuch erfolgreich abgeschlossen!
+2025-07-07 20:36:09,633 - INFO - Erfolgsrate pro Minute: 2.93
+2025-07-07 20:36:09,634 - INFO - Erfolgreiche Versuche: 15
+2025-07-07 20:36:09,634 - INFO - Fehlgeschlagene Versuche: 1
+2025-07-07 20:36:09,634 - INFO - Erfolgsrate: 93.8%
+2025-07-07 20:36:19,634 - INFO - 
+--- Durchlauf 17 (unbegrenzt) ---
+2025-07-07 20:36:19,763 - INFO - Browser geschlossen
+2025-07-07 20:36:19,763 - INFO - 
+=== FINALE STATISTIKEN ===
+2025-07-07 20:36:19,763 - INFO - Gesamte Versuche: 16
+2025-07-07 20:36:19,763 - INFO - Erfolgreiche Versuche: 15
+2025-07-07 20:36:19,763 - INFO - Fehlgeschlagene Versuche: 1
+2025-07-07 20:36:19,763 - INFO - Erfolgsrate: 93.8%
+2025-07-07 20:36:19,763 - INFO - 'I still don't care about cookies'-Erweiterung geladen aus: /home/christoph/antenne-server/idcac_extension
+2025-07-07 20:36:20,038 - INFO - Chromium-Browser erfolgreich gestartet
+2025-07-07 20:36:20,039 - INFO - Versuch #17 gestartet
+2025-07-07 20:36:20,666 - INFO - Zoom auf 30% gesetzt
+2025-07-07 20:36:20,672 - INFO - Anti-Bot-Erkennung: navigator.webdriver & Plugins gefälscht
+2025-07-07 20:36:20,754 - INFO - Website geladen: https://www.antenne.de/programm/aktionen/die-antenne-bayern-schulhof-gigs/schulen/13248-gymnasium-markt-indersdorf
+2025-07-07 20:36:20,754 - INFO - Überprüfe auf Cookie-Banner (Fallback)...
+2025-07-07 20:36:23,879 - INFO - Kein Cookie-Banner gefunden (Timeout).
+2025-07-07 20:36:23,923 - INFO - Element geklickt: voteIntendButton
+2025-07-07 20:36:25,770 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/aside/label
+2025-07-07 20:36:26,056 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/div/div/div[1]/div/div/div/button
+2025-07-07 20:36:27,897 - INFO - Element geklickt: votingButton
+2025-07-07 20:36:28,193 - INFO - Versuch erfolgreich abgeschlossen!
+2025-07-07 20:36:28,935 - INFO - Erfolgsrate pro Minute: 2.94
+2025-07-07 20:36:28,935 - INFO - Erfolgreiche Versuche: 16
+2025-07-07 20:36:28,935 - INFO - Fehlgeschlagene Versuche: 1
+2025-07-07 20:36:28,935 - INFO - Erfolgsrate: 94.1%
+2025-07-07 20:36:38,936 - INFO - 
+--- Durchlauf 18 (unbegrenzt) ---
+2025-07-07 20:36:39,065 - INFO - Browser geschlossen
+2025-07-07 20:36:39,065 - INFO - 
+=== FINALE STATISTIKEN ===
+2025-07-07 20:36:39,065 - INFO - Gesamte Versuche: 17
+2025-07-07 20:36:39,065 - INFO - Erfolgreiche Versuche: 16
+2025-07-07 20:36:39,065 - INFO - Fehlgeschlagene Versuche: 1
+2025-07-07 20:36:39,065 - INFO - Erfolgsrate: 94.1%
+2025-07-07 20:36:39,066 - INFO - 'I still don't care about cookies'-Erweiterung geladen aus: /home/christoph/antenne-server/idcac_extension
+2025-07-07 20:36:39,364 - INFO - Chromium-Browser erfolgreich gestartet
+2025-07-07 20:36:39,364 - INFO - Versuch #18 gestartet
+2025-07-07 20:36:40,052 - INFO - Zoom auf 30% gesetzt
+2025-07-07 20:36:40,122 - INFO - Anti-Bot-Erkennung: navigator.webdriver & Plugins gefälscht
+2025-07-07 20:36:40,166 - INFO - Website geladen: https://www.antenne.de/programm/aktionen/die-antenne-bayern-schulhof-gigs/schulen/13248-gymnasium-markt-indersdorf
+2025-07-07 20:36:40,166 - INFO - Überprüfe auf Cookie-Banner (Fallback)...
+2025-07-07 20:36:43,254 - INFO - Kein Cookie-Banner gefunden (Timeout).
+2025-07-07 20:36:43,307 - INFO - Element geklickt: voteIntendButton
+2025-07-07 20:36:45,252 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/aside/label
+2025-07-07 20:36:45,538 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/div/div/div[1]/div/div/div/button
+2025-07-07 20:36:47,371 - INFO - Element geklickt: votingButton
+2025-07-07 20:36:47,637 - INFO - Versuch erfolgreich abgeschlossen!
+2025-07-07 20:36:48,336 - INFO - Erfolgsrate pro Minute: 2.95
+2025-07-07 20:36:48,336 - INFO - Erfolgreiche Versuche: 17
+2025-07-07 20:36:48,337 - INFO - Fehlgeschlagene Versuche: 1
+2025-07-07 20:36:48,337 - INFO - Erfolgsrate: 94.4%
+2025-07-07 20:36:58,337 - INFO - 
+--- Durchlauf 19 (unbegrenzt) ---
+2025-07-07 20:36:58,466 - INFO - Browser geschlossen
+2025-07-07 20:36:58,466 - INFO - 
+=== FINALE STATISTIKEN ===
+2025-07-07 20:36:58,466 - INFO - Gesamte Versuche: 18
+2025-07-07 20:36:58,467 - INFO - Erfolgreiche Versuche: 17
+2025-07-07 20:36:58,467 - INFO - Fehlgeschlagene Versuche: 1
+2025-07-07 20:36:58,467 - INFO - Erfolgsrate: 94.4%
+2025-07-07 20:36:58,467 - INFO - 'I still don't care about cookies'-Erweiterung geladen aus: /home/christoph/antenne-server/idcac_extension
+2025-07-07 20:36:58,747 - INFO - Chromium-Browser erfolgreich gestartet
+2025-07-07 20:36:58,747 - INFO - Versuch #19 gestartet
+2025-07-07 20:36:59,437 - INFO - Zoom auf 30% gesetzt
+2025-07-07 20:36:59,467 - INFO - Anti-Bot-Erkennung: navigator.webdriver & Plugins gefälscht
+2025-07-07 20:36:59,473 - INFO - Website geladen: https://www.antenne.de/programm/aktionen/die-antenne-bayern-schulhof-gigs/schulen/13248-gymnasium-markt-indersdorf
+2025-07-07 20:36:59,473 - INFO - Überprüfe auf Cookie-Banner (Fallback)...
+2025-07-07 20:37:02,588 - INFO - Kein Cookie-Banner gefunden (Timeout).
+2025-07-07 20:37:02,641 - INFO - Element geklickt: voteIntendButton
+2025-07-07 20:37:04,573 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/aside/label
+2025-07-07 20:37:04,861 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/div/div/div[1]/div/div/div/button
+2025-07-07 20:37:06,701 - INFO - Element geklickt: votingButton
+2025-07-07 20:37:07,032 - INFO - Versuch erfolgreich abgeschlossen!
+2025-07-07 20:37:07,790 - INFO - Erfolgsrate pro Minute: 2.96
+2025-07-07 20:37:07,790 - INFO - Erfolgreiche Versuche: 18
+2025-07-07 20:37:07,790 - INFO - Fehlgeschlagene Versuche: 1
+2025-07-07 20:37:07,790 - INFO - Erfolgsrate: 94.7%
+2025-07-07 20:37:17,791 - INFO - 
+--- Durchlauf 20 (unbegrenzt) ---
+2025-07-07 20:37:17,920 - INFO - Browser geschlossen
+2025-07-07 20:37:17,920 - INFO - 
+=== FINALE STATISTIKEN ===
+2025-07-07 20:37:17,920 - INFO - Gesamte Versuche: 19
+2025-07-07 20:37:17,920 - INFO - Erfolgreiche Versuche: 18
+2025-07-07 20:37:17,920 - INFO - Fehlgeschlagene Versuche: 1
+2025-07-07 20:37:17,921 - INFO - Erfolgsrate: 94.7%
+2025-07-07 20:37:17,921 - INFO - 'I still don't care about cookies'-Erweiterung geladen aus: /home/christoph/antenne-server/idcac_extension
+2025-07-07 20:37:18,541 - INFO - Chromium-Browser erfolgreich gestartet
+2025-07-07 20:37:18,541 - INFO - Versuch #20 gestartet
+2025-07-07 20:37:19,248 - INFO - Zoom auf 30% gesetzt
+2025-07-07 20:37:19,255 - INFO - Anti-Bot-Erkennung: navigator.webdriver & Plugins gefälscht
+2025-07-07 20:37:19,356 - INFO - Website geladen: https://www.antenne.de/programm/aktionen/die-antenne-bayern-schulhof-gigs/schulen/13248-gymnasium-markt-indersdorf
+2025-07-07 20:37:19,356 - INFO - Überprüfe auf Cookie-Banner (Fallback)...
+2025-07-07 20:37:22,483 - INFO - Kein Cookie-Banner gefunden (Timeout).
+2025-07-07 20:37:22,534 - INFO - Element geklickt: voteIntendButton
+2025-07-07 20:37:24,440 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/aside/label
+2025-07-07 20:37:24,726 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/div/div/div[1]/div/div/div/button
+2025-07-07 20:37:26,567 - INFO - Element geklickt: votingButton
+2025-07-07 20:37:26,863 - INFO - Versuch erfolgreich abgeschlossen!
+2025-07-07 20:37:27,616 - INFO - Erfolgsrate pro Minute: 2.96
+2025-07-07 20:37:27,616 - INFO - Erfolgreiche Versuche: 19
+2025-07-07 20:37:27,616 - INFO - Fehlgeschlagene Versuche: 1
+2025-07-07 20:37:27,616 - INFO - Erfolgsrate: 95.0%
+2025-07-07 20:37:37,616 - INFO - 
+--- Durchlauf 21 (unbegrenzt) ---
+2025-07-07 20:37:37,745 - INFO - Browser geschlossen
+2025-07-07 20:37:37,746 - INFO - 
+=== FINALE STATISTIKEN ===
+2025-07-07 20:37:37,746 - INFO - Gesamte Versuche: 20
+2025-07-07 20:37:37,746 - INFO - Erfolgreiche Versuche: 19
+2025-07-07 20:37:37,746 - INFO - Fehlgeschlagene Versuche: 1
+2025-07-07 20:37:37,746 - INFO - Erfolgsrate: 95.0%
+2025-07-07 20:37:37,746 - INFO - 'I still don't care about cookies'-Erweiterung geladen aus: /home/christoph/antenne-server/idcac_extension
+2025-07-07 20:37:38,042 - INFO - Chromium-Browser erfolgreich gestartet
+2025-07-07 20:37:38,042 - INFO - Versuch #21 gestartet
+2025-07-07 20:37:38,907 - INFO - Zoom auf 30% gesetzt
+2025-07-07 20:37:39,020 - INFO - Anti-Bot-Erkennung: navigator.webdriver & Plugins gefälscht
+2025-07-07 20:37:39,073 - INFO - Website geladen: https://www.antenne.de/programm/aktionen/die-antenne-bayern-schulhof-gigs/schulen/13248-gymnasium-markt-indersdorf
+2025-07-07 20:37:39,073 - INFO - Überprüfe auf Cookie-Banner (Fallback)...
+2025-07-07 20:37:42,162 - INFO - Kein Cookie-Banner gefunden (Timeout).
+2025-07-07 20:37:42,215 - INFO - Element geklickt: voteIntendButton
+2025-07-07 20:37:44,187 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/aside/label
+2025-07-07 20:37:44,473 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/div/div/div[1]/div/div/div/button
+2025-07-07 20:37:46,835 - INFO - Element geklickt: votingButton
+2025-07-07 20:37:47,112 - INFO - Versuch erfolgreich abgeschlossen!
+2025-07-07 20:37:47,842 - INFO - Erfolgsrate pro Minute: 2.96
+2025-07-07 20:37:47,843 - INFO - Erfolgreiche Versuche: 20
+2025-07-07 20:37:47,843 - INFO - Fehlgeschlagene Versuche: 1
+2025-07-07 20:37:47,843 - INFO - Erfolgsrate: 95.2%
+2025-07-07 20:37:57,843 - INFO - 
+--- Durchlauf 22 (unbegrenzt) ---
+2025-07-07 20:37:58,005 - INFO - Browser geschlossen
+2025-07-07 20:37:58,005 - INFO - 
+=== FINALE STATISTIKEN ===
+2025-07-07 20:37:58,005 - INFO - Gesamte Versuche: 21
+2025-07-07 20:37:58,005 - INFO - Erfolgreiche Versuche: 20
+2025-07-07 20:37:58,005 - INFO - Fehlgeschlagene Versuche: 1
+2025-07-07 20:37:58,006 - INFO - Erfolgsrate: 95.2%
+2025-07-07 20:37:58,006 - INFO - 'I still don't care about cookies'-Erweiterung geladen aus: /home/christoph/antenne-server/idcac_extension
+2025-07-07 20:37:58,304 - INFO - Chromium-Browser erfolgreich gestartet
+2025-07-07 20:37:58,304 - INFO - Versuch #22 gestartet
+2025-07-07 20:37:59,038 - INFO - Zoom auf 30% gesetzt
+2025-07-07 20:37:59,145 - INFO - Anti-Bot-Erkennung: navigator.webdriver & Plugins gefälscht
+2025-07-07 20:37:59,196 - INFO - Website geladen: https://www.antenne.de/programm/aktionen/die-antenne-bayern-schulhof-gigs/schulen/13248-gymnasium-markt-indersdorf
+2025-07-07 20:37:59,196 - INFO - Überprüfe auf Cookie-Banner (Fallback)...
+2025-07-07 20:38:02,286 - INFO - Kein Cookie-Banner gefunden (Timeout).
+2025-07-07 20:38:02,340 - INFO - Element geklickt: voteIntendButton
+2025-07-07 20:38:04,228 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/aside/label
+2025-07-07 20:38:04,518 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/div/div/div[1]/div/div/div/button
+2025-07-07 20:38:06,883 - INFO - Element geklickt: votingButton
+2025-07-07 20:38:07,149 - INFO - Versuch erfolgreich abgeschlossen!
+2025-07-07 20:38:07,905 - INFO - Erfolgsrate pro Minute: 2.96
+2025-07-07 20:38:07,905 - INFO - Erfolgreiche Versuche: 21
+2025-07-07 20:38:07,905 - INFO - Fehlgeschlagene Versuche: 1
+2025-07-07 20:38:07,906 - INFO - Erfolgsrate: 95.5%
+2025-07-07 20:38:17,906 - INFO - 
+--- Durchlauf 23 (unbegrenzt) ---
+2025-07-07 20:38:18,068 - INFO - Browser geschlossen
+2025-07-07 20:38:18,068 - INFO - 
+=== FINALE STATISTIKEN ===
+2025-07-07 20:38:18,068 - INFO - Gesamte Versuche: 22
+2025-07-07 20:38:18,068 - INFO - Erfolgreiche Versuche: 21
+2025-07-07 20:38:18,068 - INFO - Fehlgeschlagene Versuche: 1
+2025-07-07 20:38:18,068 - INFO - Erfolgsrate: 95.5%
+2025-07-07 20:38:18,068 - INFO - 'I still don't care about cookies'-Erweiterung geladen aus: /home/christoph/antenne-server/idcac_extension
+2025-07-07 20:38:18,372 - INFO - Chromium-Browser erfolgreich gestartet
+2025-07-07 20:38:18,372 - INFO - Versuch #23 gestartet
+2025-07-07 20:38:19,062 - INFO - Zoom auf 30% gesetzt
+2025-07-07 20:38:19,068 - INFO - Anti-Bot-Erkennung: navigator.webdriver & Plugins gefälscht
+2025-07-07 20:38:19,156 - INFO - Website geladen: https://www.antenne.de/programm/aktionen/die-antenne-bayern-schulhof-gigs/schulen/13248-gymnasium-markt-indersdorf
+2025-07-07 20:38:19,156 - INFO - Überprüfe auf Cookie-Banner (Fallback)...
+2025-07-07 20:38:22,282 - INFO - Kein Cookie-Banner gefunden (Timeout).
+2025-07-07 20:38:22,334 - INFO - Element geklickt: voteIntendButton
+2025-07-07 20:38:24,281 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/aside/label
+2025-07-07 20:38:24,567 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/div/div/div[1]/div/div/div/button
+2025-07-07 20:38:26,937 - INFO - Element geklickt: votingButton
+2025-07-07 20:38:27,202 - INFO - Versuch erfolgreich abgeschlossen!
+2025-07-07 20:38:27,930 - INFO - Erfolgsrate pro Minute: 2.96
+2025-07-07 20:38:27,930 - INFO - Erfolgreiche Versuche: 22
+2025-07-07 20:38:27,930 - INFO - Fehlgeschlagene Versuche: 1
+2025-07-07 20:38:27,930 - INFO - Erfolgsrate: 95.7%
+2025-07-07 20:38:37,930 - INFO - 
+--- Durchlauf 24 (unbegrenzt) ---
+2025-07-07 20:38:38,092 - INFO - Browser geschlossen
+2025-07-07 20:38:38,093 - INFO - 
+=== FINALE STATISTIKEN ===
+2025-07-07 20:38:38,093 - INFO - Gesamte Versuche: 23
+2025-07-07 20:38:38,093 - INFO - Erfolgreiche Versuche: 22
+2025-07-07 20:38:38,093 - INFO - Fehlgeschlagene Versuche: 1
+2025-07-07 20:38:38,093 - INFO - Erfolgsrate: 95.7%
+2025-07-07 20:38:38,093 - INFO - 'I still don't care about cookies'-Erweiterung geladen aus: /home/christoph/antenne-server/idcac_extension
+2025-07-07 20:38:38,372 - INFO - Chromium-Browser erfolgreich gestartet
+2025-07-07 20:38:38,372 - INFO - Versuch #24 gestartet
+2025-07-07 20:38:39,092 - INFO - Zoom auf 30% gesetzt
+2025-07-07 20:38:39,098 - INFO - Anti-Bot-Erkennung: navigator.webdriver & Plugins gefälscht
+2025-07-07 20:38:39,138 - INFO - Website geladen: https://www.antenne.de/programm/aktionen/die-antenne-bayern-schulhof-gigs/schulen/13248-gymnasium-markt-indersdorf
+2025-07-07 20:38:39,138 - INFO - Überprüfe auf Cookie-Banner (Fallback)...
+2025-07-07 20:38:40,734 - INFO - Test durch Benutzer abgebrochen
+2025-07-07 20:38:40,735 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(104, 'Connection reset by peer')': /session/7cd5138ddfa53d6b06c25c4b9c36ce64
+2025-07-07 20:38:40,735 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7496878a5a50>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/7cd5138ddfa53d6b06c25c4b9c36ce64
+2025-07-07 20:38:40,736 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x74968789ef50>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/7cd5138ddfa53d6b06c25c4b9c36ce64
+2025-07-07 20:38:40,736 - INFO - Browser geschlossen
+2025-07-07 20:38:40,736 - INFO - 
+=== FINALE STATISTIKEN ===
+2025-07-07 20:38:40,736 - INFO - Gesamte Versuche: 24
+2025-07-07 20:38:40,736 - INFO - Erfolgreiche Versuche: 22
+2025-07-07 20:38:40,736 - INFO - Fehlgeschlagene Versuche: 1
+2025-07-07 20:38:40,736 - INFO - Erfolgsrate: 91.7%
+2025-07-07 20:38:42,325 - INFO - 2500 User-Agents aus /home/christoph/antenne-server/useragents.txt geladen.
+2025-07-07 20:38:42,325 - INFO - Starte unbegrenzten Test-Loop
+2025-07-07 20:38:42,325 - INFO - 'I still don't care about cookies'-Erweiterung geladen aus: /home/christoph/antenne-server/idcac_extension
+2025-07-07 20:38:42,625 - INFO - Chromium-Browser erfolgreich gestartet
+2025-07-07 20:38:42,625 - INFO - 
+--- Durchlauf 1 (unbegrenzt) ---
+2025-07-07 20:38:42,625 - INFO - Versuch #1 gestartet
+2025-07-07 20:38:43,226 - INFO - Zoom auf 30% gesetzt
+2025-07-07 20:38:43,232 - INFO - Anti-Bot-Erkennung: navigator.webdriver & Plugins gefälscht
+2025-07-07 20:38:43,237 - INFO - Website geladen: https://www.antenne.de/programm/aktionen/die-antenne-bayern-schulhof-gigs/schulen/13248-gymnasium-markt-indersdorf
+2025-07-07 20:38:43,237 - INFO - Überprüfe auf Cookie-Banner (Fallback)...
+2025-07-07 20:38:46,438 - INFO - Kein Cookie-Banner gefunden (Timeout).
+2025-07-07 20:38:46,483 - INFO - Element geklickt: voteIntendButton
+2025-07-07 20:38:48,401 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/aside/label
+2025-07-07 20:38:48,687 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/div/div/div[1]/div/div/div/button
+2025-07-07 20:38:51,047 - INFO - Element geklickt: votingButton
+2025-07-07 20:38:51,313 - INFO - Versuch erfolgreich abgeschlossen!
+2025-07-07 20:38:52,065 - INFO - Erfolgsrate pro Minute: 6.16
+2025-07-07 20:38:52,066 - INFO - Erfolgreiche Versuche: 1
+2025-07-07 20:38:52,066 - INFO - Fehlgeschlagene Versuche: 0
+2025-07-07 20:38:52,066 - INFO - Erfolgsrate: 100.0%
+2025-07-07 20:38:52,066 - INFO - 
+--- Durchlauf 2 (unbegrenzt) ---
+2025-07-07 20:38:52,261 - INFO - Browser geschlossen
+2025-07-07 20:38:52,262 - INFO - 
+=== FINALE STATISTIKEN ===
+2025-07-07 20:38:52,262 - INFO - Gesamte Versuche: 1
+2025-07-07 20:38:52,262 - INFO - Erfolgreiche Versuche: 1
+2025-07-07 20:38:52,262 - INFO - Fehlgeschlagene Versuche: 0
+2025-07-07 20:38:52,262 - INFO - Erfolgsrate: 100.0%
+2025-07-07 20:38:52,262 - INFO - 'I still don't care about cookies'-Erweiterung geladen aus: /home/christoph/antenne-server/idcac_extension
+2025-07-07 20:38:52,558 - INFO - Chromium-Browser erfolgreich gestartet
+2025-07-07 20:38:52,558 - INFO - Versuch #2 gestartet
+2025-07-07 20:38:53,266 - INFO - Zoom auf 30% gesetzt
+2025-07-07 20:38:53,362 - INFO - Anti-Bot-Erkennung: navigator.webdriver & Plugins gefälscht
+2025-07-07 20:38:53,408 - INFO - Website geladen: https://www.antenne.de/programm/aktionen/die-antenne-bayern-schulhof-gigs/schulen/13248-gymnasium-markt-indersdorf
+2025-07-07 20:38:53,408 - INFO - Überprüfe auf Cookie-Banner (Fallback)...
+2025-07-07 20:38:56,498 - INFO - Kein Cookie-Banner gefunden (Timeout).
+2025-07-07 20:38:56,552 - INFO - Element geklickt: voteIntendButton
+2025-07-07 20:38:58,480 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/aside/label
+2025-07-07 20:38:58,761 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/div/div/div[1]/div/div/div/button
+2025-07-07 20:39:01,125 - INFO - Element geklickt: votingButton
+2025-07-07 20:39:01,396 - INFO - Versuch erfolgreich abgeschlossen!
+2025-07-07 20:39:02,103 - INFO - Erfolgsrate pro Minute: 6.07
+2025-07-07 20:39:02,103 - INFO - Erfolgreiche Versuche: 2
+2025-07-07 20:39:02,103 - INFO - Fehlgeschlagene Versuche: 0
+2025-07-07 20:39:02,103 - INFO - Erfolgsrate: 100.0%
+2025-07-07 20:39:02,103 - INFO - 
+--- Durchlauf 3 (unbegrenzt) ---
+2025-07-07 20:39:02,298 - INFO - Browser geschlossen
+2025-07-07 20:39:02,298 - INFO - 
+=== FINALE STATISTIKEN ===
+2025-07-07 20:39:02,298 - INFO - Gesamte Versuche: 2
+2025-07-07 20:39:02,298 - INFO - Erfolgreiche Versuche: 2
+2025-07-07 20:39:02,299 - INFO - Fehlgeschlagene Versuche: 0
+2025-07-07 20:39:02,299 - INFO - Erfolgsrate: 100.0%
+2025-07-07 20:39:02,299 - INFO - 'I still don't care about cookies'-Erweiterung geladen aus: /home/christoph/antenne-server/idcac_extension
+2025-07-07 20:39:02,571 - INFO - Chromium-Browser erfolgreich gestartet
+2025-07-07 20:39:02,572 - INFO - Versuch #3 gestartet
+2025-07-07 20:39:03,253 - INFO - Zoom auf 30% gesetzt
+2025-07-07 20:39:03,291 - INFO - Anti-Bot-Erkennung: navigator.webdriver & Plugins gefälscht
+2025-07-07 20:39:03,298 - INFO - Website geladen: https://www.antenne.de/programm/aktionen/die-antenne-bayern-schulhof-gigs/schulen/13248-gymnasium-markt-indersdorf
+2025-07-07 20:39:03,298 - INFO - Überprüfe auf Cookie-Banner (Fallback)...
+2025-07-07 20:39:06,433 - INFO - Kein Cookie-Banner gefunden (Timeout).
+2025-07-07 20:39:06,482 - INFO - Element geklickt: voteIntendButton
+2025-07-07 20:39:08,383 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/aside/label
+2025-07-07 20:39:08,672 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/div/div/div[1]/div/div/div/button
+2025-07-07 20:39:11,046 - INFO - Element geklickt: votingButton
+2025-07-07 20:39:11,315 - INFO - Versuch erfolgreich abgeschlossen!
+2025-07-07 20:39:12,087 - INFO - Erfolgsrate pro Minute: 6.05
+2025-07-07 20:39:12,087 - INFO - Erfolgreiche Versuche: 3
+2025-07-07 20:39:12,087 - INFO - Fehlgeschlagene Versuche: 0
+2025-07-07 20:39:12,087 - INFO - Erfolgsrate: 100.0%
+2025-07-07 20:39:12,087 - INFO - 
+--- Durchlauf 4 (unbegrenzt) ---
+2025-07-07 20:39:12,282 - INFO - Browser geschlossen
+2025-07-07 20:39:12,282 - INFO - 
+=== FINALE STATISTIKEN ===
+2025-07-07 20:39:12,282 - INFO - Gesamte Versuche: 3
+2025-07-07 20:39:12,282 - INFO - Erfolgreiche Versuche: 3
+2025-07-07 20:39:12,283 - INFO - Fehlgeschlagene Versuche: 0
+2025-07-07 20:39:12,283 - INFO - Erfolgsrate: 100.0%
+2025-07-07 20:39:12,283 - INFO - 'I still don't care about cookies'-Erweiterung geladen aus: /home/christoph/antenne-server/idcac_extension
+2025-07-07 20:39:12,632 - INFO - Chromium-Browser erfolgreich gestartet
+2025-07-07 20:39:12,632 - INFO - Versuch #4 gestartet
+2025-07-07 20:39:14,059 - INFO - Zoom auf 30% gesetzt
+2025-07-07 20:39:14,065 - INFO - Anti-Bot-Erkennung: navigator.webdriver & Plugins gefälscht
+2025-07-07 20:39:14,096 - INFO - Website geladen: https://www.antenne.de/programm/aktionen/die-antenne-bayern-schulhof-gigs/schulen/13248-gymnasium-markt-indersdorf
+2025-07-07 20:39:14,096 - INFO - Überprüfe auf Cookie-Banner (Fallback)...
+2025-07-07 20:39:17,280 - INFO - Kein Cookie-Banner gefunden (Timeout).
+2025-07-07 20:39:17,335 - INFO - Element geklickt: voteIntendButton
+2025-07-07 20:39:19,286 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/aside/label
+2025-07-07 20:39:19,572 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/div/div/div[1]/div/div/div/button
+2025-07-07 20:39:21,931 - INFO - Element geklickt: votingButton
+2025-07-07 20:39:22,235 - INFO - Versuch erfolgreich abgeschlossen!
+2025-07-07 20:39:22,973 - INFO - Erfolgsrate pro Minute: 5.90
+2025-07-07 20:39:22,973 - INFO - Erfolgreiche Versuche: 4
+2025-07-07 20:39:22,973 - INFO - Fehlgeschlagene Versuche: 0
+2025-07-07 20:39:22,974 - INFO - Erfolgsrate: 100.0%
+2025-07-07 20:39:22,974 - INFO - 
+--- Durchlauf 5 (unbegrenzt) ---
+2025-07-07 20:39:23,136 - INFO - Browser geschlossen
+2025-07-07 20:39:23,137 - INFO - 
+=== FINALE STATISTIKEN ===
+2025-07-07 20:39:23,137 - INFO - Gesamte Versuche: 4
+2025-07-07 20:39:23,137 - INFO - Erfolgreiche Versuche: 4
+2025-07-07 20:39:23,137 - INFO - Fehlgeschlagene Versuche: 0
+2025-07-07 20:39:23,137 - INFO - Erfolgsrate: 100.0%
+2025-07-07 20:39:23,137 - INFO - 'I still don't care about cookies'-Erweiterung geladen aus: /home/christoph/antenne-server/idcac_extension
+2025-07-07 20:39:23,418 - INFO - Chromium-Browser erfolgreich gestartet
+2025-07-07 20:39:23,418 - INFO - Versuch #5 gestartet
+2025-07-07 20:39:24,195 - INFO - Zoom auf 30% gesetzt
+2025-07-07 20:39:24,234 - INFO - Anti-Bot-Erkennung: navigator.webdriver & Plugins gefälscht
+2025-07-07 20:39:24,318 - INFO - Website geladen: https://www.antenne.de/programm/aktionen/die-antenne-bayern-schulhof-gigs/schulen/13248-gymnasium-markt-indersdorf
+2025-07-07 20:39:24,318 - INFO - Überprüfe auf Cookie-Banner (Fallback)...
+2025-07-07 20:39:27,452 - INFO - Kein Cookie-Banner gefunden (Timeout).
+2025-07-07 20:39:27,499 - INFO - Element geklickt: voteIntendButton
+2025-07-07 20:39:27,853 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/aside/label
+2025-07-07 20:39:32,267 - WARNING - Element nicht gefunden: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/div/div/div[1]/div/div/div/button (Timeout: 4s)
+2025-07-07 20:39:32,267 - ERROR - Schritt 3 fehlgeschlagen: Dritter Button nicht gefunden
+2025-07-07 20:39:32,267 - INFO - Erfolgsrate pro Minute: 4.81
+2025-07-07 20:39:32,267 - INFO - Erfolgreiche Versuche: 4
+2025-07-07 20:39:32,267 - INFO - Fehlgeschlagene Versuche: 1
+2025-07-07 20:39:32,267 - INFO - Erfolgsrate: 80.0%
+2025-07-07 20:39:32,267 - INFO - 
+--- Durchlauf 6 (unbegrenzt) ---
+2025-07-07 20:39:32,429 - INFO - Browser geschlossen
+2025-07-07 20:39:32,429 - INFO - 
+=== FINALE STATISTIKEN ===
+2025-07-07 20:39:32,429 - INFO - Gesamte Versuche: 5
+2025-07-07 20:39:32,429 - INFO - Erfolgreiche Versuche: 4
+2025-07-07 20:39:32,429 - INFO - Fehlgeschlagene Versuche: 1
+2025-07-07 20:39:32,429 - INFO - Erfolgsrate: 80.0%
+2025-07-07 20:39:32,429 - INFO - 'I still don't care about cookies'-Erweiterung geladen aus: /home/christoph/antenne-server/idcac_extension
+2025-07-07 20:39:32,723 - INFO - Chromium-Browser erfolgreich gestartet
+2025-07-07 20:39:32,723 - INFO - Versuch #6 gestartet
+2025-07-07 20:39:33,383 - INFO - Zoom auf 30% gesetzt
+2025-07-07 20:39:33,480 - INFO - Anti-Bot-Erkennung: navigator.webdriver & Plugins gefälscht
+2025-07-07 20:39:33,523 - INFO - Website geladen: https://www.antenne.de/programm/aktionen/die-antenne-bayern-schulhof-gigs/schulen/13248-gymnasium-markt-indersdorf
+2025-07-07 20:39:33,523 - INFO - Überprüfe auf Cookie-Banner (Fallback)...
+2025-07-07 20:39:36,618 - INFO - Kein Cookie-Banner gefunden (Timeout).
+2025-07-07 20:39:36,667 - INFO - Element geklickt: voteIntendButton
+2025-07-07 20:39:38,594 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/aside/label
+2025-07-07 20:39:38,881 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/div/div/div[1]/div/div/div/button
+2025-07-07 20:39:41,247 - INFO - Element geklickt: votingButton
+2025-07-07 20:39:41,552 - INFO - Versuch erfolgreich abgeschlossen!
+2025-07-07 20:39:42,420 - INFO - Erfolgsrate pro Minute: 4.99
+2025-07-07 20:39:42,420 - INFO - Erfolgreiche Versuche: 5
+2025-07-07 20:39:42,420 - INFO - Fehlgeschlagene Versuche: 1
+2025-07-07 20:39:42,420 - INFO - Erfolgsrate: 83.3%
+2025-07-07 20:39:42,420 - INFO - 
+--- Durchlauf 7 (unbegrenzt) ---
+2025-07-07 20:39:42,615 - INFO - Browser geschlossen
+2025-07-07 20:39:42,615 - INFO - 
+=== FINALE STATISTIKEN ===
+2025-07-07 20:39:42,615 - INFO - Gesamte Versuche: 6
+2025-07-07 20:39:42,615 - INFO - Erfolgreiche Versuche: 5
+2025-07-07 20:39:42,615 - INFO - Fehlgeschlagene Versuche: 1
+2025-07-07 20:39:42,615 - INFO - Erfolgsrate: 83.3%
+2025-07-07 20:39:42,615 - INFO - 'I still don't care about cookies'-Erweiterung geladen aus: /home/christoph/antenne-server/idcac_extension
+2025-07-07 20:39:42,916 - INFO - Chromium-Browser erfolgreich gestartet
+2025-07-07 20:39:42,916 - INFO - Versuch #7 gestartet
+2025-07-07 20:39:43,675 - INFO - Zoom auf 30% gesetzt
+2025-07-07 20:39:43,682 - INFO - Anti-Bot-Erkennung: navigator.webdriver & Plugins gefälscht
+2025-07-07 20:39:43,787 - INFO - Website geladen: https://www.antenne.de/programm/aktionen/die-antenne-bayern-schulhof-gigs/schulen/13248-gymnasium-markt-indersdorf
+2025-07-07 20:39:43,787 - INFO - Überprüfe auf Cookie-Banner (Fallback)...
+2025-07-07 20:39:46,914 - INFO - Kein Cookie-Banner gefunden (Timeout).
+2025-07-07 20:39:46,963 - INFO - Element geklickt: voteIntendButton
+2025-07-07 20:39:48,911 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/aside/label
+2025-07-07 20:39:49,199 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/div/div/div[1]/div/div/div/button
+2025-07-07 20:39:51,564 - INFO - Element geklickt: votingButton
+2025-07-07 20:39:51,834 - INFO - Versuch erfolgreich abgeschlossen!
+2025-07-07 20:39:52,518 - INFO - Erfolgsrate pro Minute: 5.13
+2025-07-07 20:39:52,519 - INFO - Erfolgreiche Versuche: 6
+2025-07-07 20:39:52,519 - INFO - Fehlgeschlagene Versuche: 1
+2025-07-07 20:39:52,519 - INFO - Erfolgsrate: 85.7%
+2025-07-07 20:39:52,519 - INFO - 
+--- Durchlauf 8 (unbegrenzt) ---
+2025-07-07 20:39:52,716 - INFO - Browser geschlossen
+2025-07-07 20:39:52,716 - INFO - 
+=== FINALE STATISTIKEN ===
+2025-07-07 20:39:52,716 - INFO - Gesamte Versuche: 7
+2025-07-07 20:39:52,717 - INFO - Erfolgreiche Versuche: 6
+2025-07-07 20:39:52,717 - INFO - Fehlgeschlagene Versuche: 1
+2025-07-07 20:39:52,717 - INFO - Erfolgsrate: 85.7%
+2025-07-07 20:39:52,717 - INFO - 'I still don't care about cookies'-Erweiterung geladen aus: /home/christoph/antenne-server/idcac_extension
+2025-07-07 20:39:53,101 - INFO - Chromium-Browser erfolgreich gestartet
+2025-07-07 20:39:53,102 - INFO - Versuch #8 gestartet
+2025-07-07 20:39:53,775 - INFO - Zoom auf 30% gesetzt
+2025-07-07 20:39:53,781 - INFO - Anti-Bot-Erkennung: navigator.webdriver & Plugins gefälscht
+2025-07-07 20:39:53,886 - INFO - Website geladen: https://www.antenne.de/programm/aktionen/die-antenne-bayern-schulhof-gigs/schulen/13248-gymnasium-markt-indersdorf
+2025-07-07 20:39:53,886 - INFO - Überprüfe auf Cookie-Banner (Fallback)...
+2025-07-07 20:39:57,027 - INFO - Kein Cookie-Banner gefunden (Timeout).
+2025-07-07 20:39:57,082 - INFO - Element geklickt: voteIntendButton
+2025-07-07 20:39:58,999 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/aside/label
+2025-07-07 20:39:59,288 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/div/div/div[1]/div/div/div/button
+2025-07-07 20:40:01,129 - INFO - Element geklickt: votingButton
+2025-07-07 20:40:01,399 - INFO - Versuch erfolgreich abgeschlossen!
+2025-07-07 20:40:02,095 - INFO - Erfolgsrate pro Minute: 5.27
+2025-07-07 20:40:02,095 - INFO - Erfolgreiche Versuche: 7
+2025-07-07 20:40:02,095 - INFO - Fehlgeschlagene Versuche: 1
+2025-07-07 20:40:02,095 - INFO - Erfolgsrate: 87.5%
+2025-07-07 20:40:02,095 - INFO - 
+--- Durchlauf 9 (unbegrenzt) ---
+2025-07-07 20:40:02,257 - INFO - Browser geschlossen
+2025-07-07 20:40:02,257 - INFO - 
+=== FINALE STATISTIKEN ===
+2025-07-07 20:40:02,257 - INFO - Gesamte Versuche: 8
+2025-07-07 20:40:02,258 - INFO - Erfolgreiche Versuche: 7
+2025-07-07 20:40:02,258 - INFO - Fehlgeschlagene Versuche: 1
+2025-07-07 20:40:02,258 - INFO - Erfolgsrate: 87.5%
+2025-07-07 20:40:02,258 - INFO - 'I still don't care about cookies'-Erweiterung geladen aus: /home/christoph/antenne-server/idcac_extension
+2025-07-07 20:40:02,542 - INFO - Chromium-Browser erfolgreich gestartet
+2025-07-07 20:40:02,542 - INFO - Versuch #9 gestartet
+2025-07-07 20:40:03,358 - INFO - Zoom auf 30% gesetzt
+2025-07-07 20:40:03,365 - INFO - Anti-Bot-Erkennung: navigator.webdriver & Plugins gefälscht
+2025-07-07 20:40:03,482 - INFO - Website geladen: https://www.antenne.de/programm/aktionen/die-antenne-bayern-schulhof-gigs/schulen/13248-gymnasium-markt-indersdorf
+2025-07-07 20:40:03,482 - INFO - Überprüfe auf Cookie-Banner (Fallback)...
+2025-07-07 20:40:06,608 - INFO - Kein Cookie-Banner gefunden (Timeout).
+2025-07-07 20:40:06,658 - INFO - Element geklickt: voteIntendButton
+2025-07-07 20:40:08,610 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/aside/label
+2025-07-07 20:40:08,896 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/div/div/div[1]/div/div/div/button
+2025-07-07 20:40:11,776 - INFO - Element geklickt: votingButton
+2025-07-07 20:40:12,045 - INFO - Versuch erfolgreich abgeschlossen!
+2025-07-07 20:40:13,084 - INFO - Erfolgsrate pro Minute: 5.29
+2025-07-07 20:40:13,084 - INFO - Erfolgreiche Versuche: 8
+2025-07-07 20:40:13,084 - INFO - Fehlgeschlagene Versuche: 1
+2025-07-07 20:40:13,084 - INFO - Erfolgsrate: 88.9%
+2025-07-07 20:40:13,084 - INFO - 
+--- Durchlauf 10 (unbegrenzt) ---
+2025-07-07 20:40:13,248 - INFO - Browser geschlossen
+2025-07-07 20:40:13,248 - INFO - 
+=== FINALE STATISTIKEN ===
+2025-07-07 20:40:13,248 - INFO - Gesamte Versuche: 9
+2025-07-07 20:40:13,248 - INFO - Erfolgreiche Versuche: 8
+2025-07-07 20:40:13,248 - INFO - Fehlgeschlagene Versuche: 1
+2025-07-07 20:40:13,248 - INFO - Erfolgsrate: 88.9%
+2025-07-07 20:40:13,248 - INFO - 'I still don't care about cookies'-Erweiterung geladen aus: /home/christoph/antenne-server/idcac_extension
+2025-07-07 20:40:13,538 - INFO - Chromium-Browser erfolgreich gestartet
+2025-07-07 20:40:13,538 - INFO - Versuch #10 gestartet
+2025-07-07 20:40:14,280 - INFO - Zoom auf 30% gesetzt
+2025-07-07 20:40:14,389 - INFO - Anti-Bot-Erkennung: navigator.webdriver & Plugins gefälscht
+2025-07-07 20:40:14,433 - INFO - Website geladen: https://www.antenne.de/programm/aktionen/die-antenne-bayern-schulhof-gigs/schulen/13248-gymnasium-markt-indersdorf
+2025-07-07 20:40:14,433 - INFO - Überprüfe auf Cookie-Banner (Fallback)...
+2025-07-07 20:40:17,524 - INFO - Kein Cookie-Banner gefunden (Timeout).
+2025-07-07 20:40:17,589 - INFO - Element geklickt: voteIntendButton
+2025-07-07 20:40:19,547 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/aside/label
+2025-07-07 20:40:19,833 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/div/div/div[1]/div/div/div/button
+2025-07-07 20:40:22,191 - INFO - Element geklickt: votingButton
+2025-07-07 20:40:22,459 - INFO - Versuch erfolgreich abgeschlossen!
+2025-07-07 20:40:23,287 - INFO - Erfolgsrate pro Minute: 5.35
+2025-07-07 20:40:23,287 - INFO - Erfolgreiche Versuche: 9
+2025-07-07 20:40:23,287 - INFO - Fehlgeschlagene Versuche: 1
+2025-07-07 20:40:23,287 - INFO - Erfolgsrate: 90.0%
+2025-07-07 20:40:23,287 - INFO - 
+--- Durchlauf 11 (unbegrenzt) ---
+2025-07-07 20:40:23,746 - INFO - Browser geschlossen
+2025-07-07 20:40:23,746 - INFO - 
+=== FINALE STATISTIKEN ===
+2025-07-07 20:40:23,746 - INFO - Gesamte Versuche: 10
+2025-07-07 20:40:23,746 - INFO - Erfolgreiche Versuche: 9
+2025-07-07 20:40:23,746 - INFO - Fehlgeschlagene Versuche: 1
+2025-07-07 20:40:23,746 - INFO - Erfolgsrate: 90.0%
+2025-07-07 20:40:23,746 - INFO - 'I still don't care about cookies'-Erweiterung geladen aus: /home/christoph/antenne-server/idcac_extension
+2025-07-07 20:40:24,071 - INFO - Chromium-Browser erfolgreich gestartet
+2025-07-07 20:40:24,071 - INFO - Versuch #11 gestartet
+2025-07-07 20:40:25,018 - INFO - Zoom auf 30% gesetzt
+2025-07-07 20:40:25,112 - INFO - Anti-Bot-Erkennung: navigator.webdriver & Plugins gefälscht
+2025-07-07 20:40:25,164 - INFO - Website geladen: https://www.antenne.de/programm/aktionen/die-antenne-bayern-schulhof-gigs/schulen/13248-gymnasium-markt-indersdorf
+2025-07-07 20:40:25,164 - INFO - Überprüfe auf Cookie-Banner (Fallback)...
+2025-07-07 20:40:28,259 - INFO - Kein Cookie-Banner gefunden (Timeout).
+2025-07-07 20:40:28,313 - INFO - Element geklickt: voteIntendButton
+2025-07-07 20:40:30,295 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/aside/label
+2025-07-07 20:40:30,586 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/div/div/div[1]/div/div/div/button
+2025-07-07 20:40:32,954 - INFO - Element geklickt: votingButton
+2025-07-07 20:40:33,226 - INFO - Versuch erfolgreich abgeschlossen!
+2025-07-07 20:40:33,995 - INFO - Erfolgsrate pro Minute: 5.37
+2025-07-07 20:40:33,995 - INFO - Erfolgreiche Versuche: 10
+2025-07-07 20:40:33,995 - INFO - Fehlgeschlagene Versuche: 1
+2025-07-07 20:40:33,995 - INFO - Erfolgsrate: 90.9%
+2025-07-07 20:40:33,996 - INFO - 
+--- Durchlauf 12 (unbegrenzt) ---
+2025-07-07 20:40:34,191 - INFO - Browser geschlossen
+2025-07-07 20:40:34,191 - INFO - 
+=== FINALE STATISTIKEN ===
+2025-07-07 20:40:34,191 - INFO - Gesamte Versuche: 11
+2025-07-07 20:40:34,191 - INFO - Erfolgreiche Versuche: 10
+2025-07-07 20:40:34,191 - INFO - Fehlgeschlagene Versuche: 1
+2025-07-07 20:40:34,191 - INFO - Erfolgsrate: 90.9%
+2025-07-07 20:40:34,191 - INFO - 'I still don't care about cookies'-Erweiterung geladen aus: /home/christoph/antenne-server/idcac_extension
+2025-07-07 20:40:34,490 - INFO - Chromium-Browser erfolgreich gestartet
+2025-07-07 20:40:34,490 - INFO - Versuch #12 gestartet
+2025-07-07 20:40:35,482 - INFO - Zoom auf 30% gesetzt
+2025-07-07 20:40:35,579 - INFO - Anti-Bot-Erkennung: navigator.webdriver & Plugins gefälscht
+2025-07-07 20:40:35,631 - INFO - Website geladen: https://www.antenne.de/programm/aktionen/die-antenne-bayern-schulhof-gigs/schulen/13248-gymnasium-markt-indersdorf
+2025-07-07 20:40:35,631 - INFO - Überprüfe auf Cookie-Banner (Fallback)...
+2025-07-07 20:40:38,727 - INFO - Kein Cookie-Banner gefunden (Timeout).
+2025-07-07 20:40:38,791 - INFO - Element geklickt: voteIntendButton
+2025-07-07 20:40:40,745 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/aside/label
+2025-07-07 20:40:41,037 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/div/div/div[1]/div/div/div/button
+2025-07-07 20:40:43,414 - INFO - Element geklickt: votingButton
+2025-07-07 20:40:43,722 - INFO - Versuch erfolgreich abgeschlossen!
+2025-07-07 20:40:44,440 - INFO - Erfolgsrate pro Minute: 5.40
+2025-07-07 20:40:44,440 - INFO - Erfolgreiche Versuche: 11
+2025-07-07 20:40:44,440 - INFO - Fehlgeschlagene Versuche: 1
+2025-07-07 20:40:44,440 - INFO - Erfolgsrate: 91.7%
+2025-07-07 20:40:44,440 - INFO - 
+--- Durchlauf 13 (unbegrenzt) ---
+2025-07-07 20:40:44,605 - INFO - Browser geschlossen
+2025-07-07 20:40:44,605 - INFO - 
+=== FINALE STATISTIKEN ===
+2025-07-07 20:40:44,605 - INFO - Gesamte Versuche: 12
+2025-07-07 20:40:44,605 - INFO - Erfolgreiche Versuche: 11
+2025-07-07 20:40:44,606 - INFO - Fehlgeschlagene Versuche: 1
+2025-07-07 20:40:44,606 - INFO - Erfolgsrate: 91.7%
+2025-07-07 20:40:44,606 - INFO - 'I still don't care about cookies'-Erweiterung geladen aus: /home/christoph/antenne-server/idcac_extension
+2025-07-07 20:40:44,984 - INFO - Chromium-Browser erfolgreich gestartet
+2025-07-07 20:40:44,985 - INFO - Versuch #13 gestartet
+2025-07-07 20:40:45,873 - INFO - Zoom auf 30% gesetzt
+2025-07-07 20:40:45,882 - INFO - Anti-Bot-Erkennung: navigator.webdriver & Plugins gefälscht
+2025-07-07 20:40:45,989 - INFO - Website geladen: https://www.antenne.de/programm/aktionen/die-antenne-bayern-schulhof-gigs/schulen/13248-gymnasium-markt-indersdorf
+2025-07-07 20:40:45,989 - INFO - Überprüfe auf Cookie-Banner (Fallback)...
+2025-07-07 20:40:49,141 - INFO - Kein Cookie-Banner gefunden (Timeout).
+2025-07-07 20:40:49,208 - INFO - Element geklickt: voteIntendButton
+2025-07-07 20:40:49,642 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/aside/label
+2025-07-07 20:40:54,079 - WARNING - Element nicht gefunden: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/div/div/div[1]/div/div/div/button (Timeout: 4s)
+2025-07-07 20:40:54,079 - ERROR - Schritt 3 fehlgeschlagen: Dritter Button nicht gefunden
+2025-07-07 20:40:54,079 - INFO - Erfolgsrate pro Minute: 5.01
+2025-07-07 20:40:54,079 - INFO - Erfolgreiche Versuche: 11
+2025-07-07 20:40:54,079 - INFO - Fehlgeschlagene Versuche: 2
+2025-07-07 20:40:54,079 - INFO - Erfolgsrate: 84.6%
+2025-07-07 20:40:54,079 - INFO - 
+--- Durchlauf 14 (unbegrenzt) ---
+2025-07-07 20:40:54,274 - INFO - Browser geschlossen
+2025-07-07 20:40:54,274 - INFO - 
+=== FINALE STATISTIKEN ===
+2025-07-07 20:40:54,275 - INFO - Gesamte Versuche: 13
+2025-07-07 20:40:54,275 - INFO - Erfolgreiche Versuche: 11
+2025-07-07 20:40:54,275 - INFO - Fehlgeschlagene Versuche: 2
+2025-07-07 20:40:54,275 - INFO - Erfolgsrate: 84.6%
+2025-07-07 20:40:54,275 - INFO - 'I still don't care about cookies'-Erweiterung geladen aus: /home/christoph/antenne-server/idcac_extension
+2025-07-07 20:40:54,666 - INFO - Chromium-Browser erfolgreich gestartet
+2025-07-07 20:40:54,666 - INFO - Versuch #14 gestartet
+2025-07-07 20:40:55,377 - INFO - Zoom auf 30% gesetzt
+2025-07-07 20:40:55,417 - INFO - Anti-Bot-Erkennung: navigator.webdriver & Plugins gefälscht
+2025-07-07 20:40:55,424 - INFO - Website geladen: https://www.antenne.de/programm/aktionen/die-antenne-bayern-schulhof-gigs/schulen/13248-gymnasium-markt-indersdorf
+2025-07-07 20:40:55,424 - INFO - Überprüfe auf Cookie-Banner (Fallback)...
+2025-07-07 20:40:58,581 - INFO - Kein Cookie-Banner gefunden (Timeout).
+2025-07-07 20:40:58,643 - INFO - Element geklickt: voteIntendButton
+2025-07-07 20:41:00,508 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/aside/label
+2025-07-07 20:41:00,803 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/div/div/div[1]/div/div/div/button
+2025-07-07 20:41:01,827 - INFO - Test durch Benutzer abgebrochen
+2025-07-07 20:41:01,828 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(104, 'Connection reset by peer')': /session/da7715f0d7ffe083cf78749770c2a275
+2025-07-07 20:41:01,829 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7db200a54b90>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/da7715f0d7ffe083cf78749770c2a275
+2025-07-07 20:41:01,830 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7db200a551d0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/da7715f0d7ffe083cf78749770c2a275
+2025-07-07 20:41:01,830 - INFO - Browser geschlossen
+2025-07-07 20:41:01,830 - INFO - 
+=== FINALE STATISTIKEN ===
+2025-07-07 20:41:01,830 - INFO - Gesamte Versuche: 14
+2025-07-07 20:41:01,830 - INFO - Erfolgreiche Versuche: 11
+2025-07-07 20:41:01,830 - INFO - Fehlgeschlagene Versuche: 2
+2025-07-07 20:41:01,831 - INFO - Erfolgsrate: 78.6%
+2025-07-07 20:41:56,877 - INFO - Aktuelle Stunde (UTC+1/MESZ): 20
+2025-07-07 20:41:56,877 - WARNING - Erweiterung /home/christoph/antenne-server/idcac.crx nicht gefunden.
+2025-07-07 20:41:57,961 - INFO - Chromium-Browser erfolgreich gestartet
+2025-07-07 20:41:58,587 - INFO - Überprüfe auf Cookie-Banner (Fallback)...
+2025-07-07 20:41:58,601 - INFO - Usercentrics-Cookie-Banner erkannt. Versuche manuelles Schließen.
+2025-07-07 20:41:59,016 - WARNING - Kein passender Cookie-Banner-Button gefunden.
+2025-07-07 20:41:59,016 - WARNING - Cookie-Banner konnte nicht geschlossen werden.
+2025-07-07 20:41:59,192 - INFO - Element geklickt: voteIntendButton
+2025-07-07 20:42:04,281 - INFO - Aktuelle Stunde (UTC+1/MESZ): 20
+2025-07-07 20:42:04,281 - WARNING - Erweiterung /home/christoph/antenne-server/idcac.crx nicht gefunden.
+2025-07-07 20:42:04,637 - INFO - Chromium-Browser erfolgreich gestartet
+2025-07-07 20:42:05,228 - INFO - Überprüfe auf Cookie-Banner (Fallback)...
+2025-07-07 20:42:05,248 - INFO - Usercentrics-Cookie-Banner erkannt. Versuche manuelles Schließen.
+2025-07-07 20:42:05,500 - WARNING - Kein passender Cookie-Banner-Button gefunden.
+2025-07-07 20:42:05,500 - WARNING - Cookie-Banner konnte nicht geschlossen werden.
+2025-07-07 20:42:05,665 - INFO - Element geklickt: voteIntendButton
+2025-07-07 20:42:15,819 - INFO - 2500 User-Agents aus /home/christoph/antenne-server/useragents.txt geladen.
+2025-07-07 20:42:15,819 - INFO - Starte unbegrenzten Test-Loop
+2025-07-07 20:42:15,819 - INFO - 'I still don't care about cookies'-Erweiterung geladen aus: /home/christoph/antenne-server/idcac_extension
+2025-07-07 20:42:16,131 - INFO - Chromium-Browser erfolgreich gestartet
+2025-07-07 20:42:16,132 - INFO - 
+--- Durchlauf 1 (unbegrenzt) ---
+2025-07-07 20:42:16,132 - INFO - Versuch #1 gestartet
+2025-07-07 20:42:16,717 - INFO - Zoom auf 30% gesetzt
+2025-07-07 20:42:16,724 - INFO - Anti-Bot-Erkennung: navigator.webdriver & Plugins gefälscht
+2025-07-07 20:42:16,733 - INFO - Website geladen: https://www.antenne.de/programm/aktionen/die-antenne-bayern-schulhof-gigs/schulen/13248-gymnasium-markt-indersdorf
+2025-07-07 20:42:16,734 - INFO - Überprüfe auf Cookie-Banner (Fallback)...
+2025-07-07 20:42:19,861 - INFO - Kein Cookie-Banner gefunden (Timeout).
+2025-07-07 20:42:19,907 - INFO - Element geklickt: voteIntendButton
+2025-07-07 20:42:21,828 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/aside/label
+2025-07-07 20:42:22,115 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/div/div/div[1]/div/div/div/button
+2025-07-07 20:42:23,955 - INFO - Element geklickt: votingButton
+2025-07-07 20:42:24,220 - INFO - Versuch erfolgreich abgeschlossen!
+2025-07-07 20:42:24,939 - INFO - Erfolgsrate pro Minute: 6.58
+2025-07-07 20:42:24,939 - INFO - Erfolgreiche Versuche: 1
+2025-07-07 20:42:24,939 - INFO - Fehlgeschlagene Versuche: 0
+2025-07-07 20:42:24,939 - INFO - Erfolgsrate: 100.0%
+2025-07-07 20:42:24,939 - INFO - 
+--- Durchlauf 2 (unbegrenzt) ---
+2025-07-07 20:42:25,134 - INFO - Browser geschlossen
+2025-07-07 20:42:25,134 - INFO - 
+=== FINALE STATISTIKEN ===
+2025-07-07 20:42:25,135 - INFO - Gesamte Versuche: 1
+2025-07-07 20:42:25,135 - INFO - Erfolgreiche Versuche: 1
+2025-07-07 20:42:25,135 - INFO - Fehlgeschlagene Versuche: 0
+2025-07-07 20:42:25,135 - INFO - Erfolgsrate: 100.0%
+2025-07-07 20:42:25,135 - INFO - 'I still don't care about cookies'-Erweiterung geladen aus: /home/christoph/antenne-server/idcac_extension
+2025-07-07 20:42:25,458 - INFO - Chromium-Browser erfolgreich gestartet
+2025-07-07 20:42:25,458 - INFO - Versuch #2 gestartet
+2025-07-07 20:42:26,237 - INFO - Zoom auf 30% gesetzt
+2025-07-07 20:42:26,243 - INFO - Anti-Bot-Erkennung: navigator.webdriver & Plugins gefälscht
+2025-07-07 20:42:26,359 - INFO - Website geladen: https://www.antenne.de/programm/aktionen/die-antenne-bayern-schulhof-gigs/schulen/13248-gymnasium-markt-indersdorf
+2025-07-07 20:42:26,359 - INFO - Überprüfe auf Cookie-Banner (Fallback)...
+2025-07-07 20:42:27,630 - INFO - Test durch Benutzer abgebrochen
+2025-07-07 20:42:27,632 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(104, 'Connection reset by peer')': /session/dc2a29e68a48183cf6518464bcdcdaa4
+2025-07-07 20:42:27,632 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7ce56d3c4c50>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/dc2a29e68a48183cf6518464bcdcdaa4
+2025-07-07 20:42:27,633 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7ce56d3c4ed0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/dc2a29e68a48183cf6518464bcdcdaa4
+2025-07-07 20:42:27,633 - INFO - Browser geschlossen
+2025-07-07 20:42:27,633 - INFO - 
+=== FINALE STATISTIKEN ===
+2025-07-07 20:42:27,633 - INFO - Gesamte Versuche: 2
+2025-07-07 20:42:27,633 - INFO - Erfolgreiche Versuche: 1
+2025-07-07 20:42:27,633 - INFO - Fehlgeschlagene Versuche: 0
+2025-07-07 20:42:27,633 - INFO - Erfolgsrate: 50.0%
+2025-07-07 20:50:38,068 - INFO - 2500 User-Agents aus /home/christoph/antenne-server/useragents.txt geladen.
+2025-07-07 20:50:38,068 - INFO - Starte unbegrenzten Test-Loop
+2025-07-07 20:50:38,068 - INFO - 'I still don't care about cookies'-Erweiterung geladen aus: /home/christoph/antenne-server/idcac_extension
+2025-07-07 20:50:38,374 - INFO - Chromium-Browser erfolgreich gestartet
+2025-07-07 20:50:38,375 - INFO - 
+--- Durchlauf 1/unbegrenzt ---
+2025-07-07 20:50:38,382 - INFO - 
+--- Durchlauf 1 (unbegrenzt) ---
+2025-07-07 20:50:38,382 - INFO - Versuch #1 gestartet
+2025-07-07 20:50:38,968 - INFO - Zoom auf 30% gesetzt
+2025-07-07 20:50:39,002 - INFO - Anti-Bot-Erkennung: navigator.webdriver & Plugins gefälscht
+2025-07-07 20:50:39,063 - INFO - Website geladen: https://www.antenne.de/programm/aktionen/die-antenne-bayern-schulhof-gigs/schulen/13248-gymnasium-markt-indersdorf
+2025-07-07 20:50:39,064 - INFO - Überprüfe auf Cookie-Banner (Fallback)...
+2025-07-07 20:50:42,202 - INFO - Kein Cookie-Banner gefunden (Timeout).
+2025-07-07 20:50:42,254 - INFO - Element geklickt: voteIntendButton
+2025-07-07 20:50:44,172 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/aside/label
+2025-07-07 20:50:44,461 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/div/div/div[1]/div/div/div/button
+2025-07-07 20:50:46,805 - INFO - Element geklickt: votingButton
+2025-07-07 20:50:47,076 - INFO - Versuch erfolgreich abgeschlossen!
+2025-07-07 20:50:47,760 - INFO - Erfolgsrate pro Minute: 6.19
+2025-07-07 20:50:47,760 - INFO - Erfolgreiche Versuche: 1
+2025-07-07 20:50:47,760 - INFO - Fehlgeschlagene Versuche: 0
+2025-07-07 20:50:47,760 - INFO - Erfolgsrate: 100.0%
+2025-07-07 20:50:47,760 - INFO - 
+--- Durchlauf 2/unbegrenzt ---
+2025-07-07 20:50:47,760 - INFO - 
+--- Durchlauf 2 (unbegrenzt) ---
+2025-07-07 20:50:47,889 - INFO - Browser geschlossen
+2025-07-07 20:50:47,889 - INFO - 
+=== FINALE STATISTIKEN ===
+2025-07-07 20:50:47,890 - INFO - Gesamte Versuche: 1
+2025-07-07 20:50:47,890 - INFO - Erfolgreiche Versuche: 1
+2025-07-07 20:50:47,890 - INFO - Fehlgeschlagene Versuche: 0
+2025-07-07 20:50:47,890 - INFO - Erfolgsrate: 100.0%
+2025-07-07 20:50:47,890 - INFO - 'I still don't care about cookies'-Erweiterung geladen aus: /home/christoph/antenne-server/idcac_extension
+2025-07-07 20:50:48,244 - INFO - Chromium-Browser erfolgreich gestartet
+2025-07-07 20:50:48,244 - INFO - Versuch #2 gestartet
+2025-07-07 20:50:48,815 - INFO - Zoom auf 30% gesetzt
+2025-07-07 20:50:48,821 - INFO - Anti-Bot-Erkennung: navigator.webdriver & Plugins gefälscht
+2025-07-07 20:50:48,914 - INFO - Website geladen: https://www.antenne.de/programm/aktionen/die-antenne-bayern-schulhof-gigs/schulen/13248-gymnasium-markt-indersdorf
+2025-07-07 20:50:48,915 - INFO - Überprüfe auf Cookie-Banner (Fallback)...
+2025-07-07 20:50:52,045 - INFO - Kein Cookie-Banner gefunden (Timeout).
+2025-07-07 20:50:52,090 - INFO - Element geklickt: voteIntendButton
+2025-07-07 20:50:54,032 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/aside/label
+2025-07-07 20:50:54,323 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/div/div/div[1]/div/div/div/button
+2025-07-07 20:50:56,171 - INFO - Element geklickt: votingButton
+2025-07-07 20:50:56,439 - INFO - Versuch erfolgreich abgeschlossen!
+2025-07-07 20:50:57,165 - INFO - Erfolgsrate pro Minute: 6.28
+2025-07-07 20:50:57,165 - INFO - Erfolgreiche Versuche: 2
+2025-07-07 20:50:57,165 - INFO - Fehlgeschlagene Versuche: 0
+2025-07-07 20:50:57,165 - INFO - Erfolgsrate: 100.0%
+2025-07-07 20:50:57,166 - INFO - 
+--- Durchlauf 3/unbegrenzt ---
+2025-07-07 20:50:57,166 - INFO - 
+--- Durchlauf 3 (unbegrenzt) ---
+2025-07-07 20:50:57,328 - INFO - Browser geschlossen
+2025-07-07 20:50:57,328 - INFO - 
+=== FINALE STATISTIKEN ===
+2025-07-07 20:50:57,328 - INFO - Gesamte Versuche: 2
+2025-07-07 20:50:57,328 - INFO - Erfolgreiche Versuche: 2
+2025-07-07 20:50:57,328 - INFO - Fehlgeschlagene Versuche: 0
+2025-07-07 20:50:57,328 - INFO - Erfolgsrate: 100.0%
+2025-07-07 20:50:57,328 - INFO - 'I still don't care about cookies'-Erweiterung geladen aus: /home/christoph/antenne-server/idcac_extension
+2025-07-07 20:50:57,589 - INFO - Chromium-Browser erfolgreich gestartet
+2025-07-07 20:50:57,590 - INFO - Versuch #3 gestartet
+2025-07-07 20:50:58,774 - INFO - Zoom auf 30% gesetzt
+2025-07-07 20:50:58,804 - INFO - Anti-Bot-Erkennung: navigator.webdriver & Plugins gefälscht
+2025-07-07 20:50:58,852 - INFO - Website geladen: https://www.antenne.de/programm/aktionen/die-antenne-bayern-schulhof-gigs/schulen/13248-gymnasium-markt-indersdorf
+2025-07-07 20:50:58,853 - INFO - Überprüfe auf Cookie-Banner (Fallback)...
+2025-07-07 20:51:01,947 - INFO - Kein Cookie-Banner gefunden (Timeout).
+2025-07-07 20:51:01,990 - INFO - Element geklickt: voteIntendButton
+2025-07-07 20:51:03,958 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/aside/label
+2025-07-07 20:51:04,244 - INFO - Element geklickt: /html/body/div[1]/div[2]/main/div[2]/div/div[1]/form/fieldset/div/div/div/div[1]/div/div/div/button
+2025-07-07 20:51:07,132 - INFO - Element geklickt: votingButton
+2025-07-07 20:51:07,406 - INFO - Versuch erfolgreich abgeschlossen!
+2025-07-07 20:51:08,146 - INFO - Erfolgsrate pro Minute: 5.98
+2025-07-07 20:51:08,146 - INFO - Erfolgreiche Versuche: 3
+2025-07-07 20:51:08,146 - INFO - Fehlgeschlagene Versuche: 0
+2025-07-07 20:51:08,146 - INFO - Erfolgsrate: 100.0%
+2025-07-07 20:51:08,146 - INFO - 
+--- Durchlauf 4/unbegrenzt ---
+2025-07-07 20:51:08,146 - INFO - 
+--- Durchlauf 4 (unbegrenzt) ---
+2025-07-07 20:51:08,309 - INFO - Browser geschlossen
+2025-07-07 20:51:08,309 - INFO - 
+=== FINALE STATISTIKEN ===
+2025-07-07 20:51:08,309 - INFO - Gesamte Versuche: 3
+2025-07-07 20:51:08,309 - INFO - Erfolgreiche Versuche: 3
+2025-07-07 20:51:08,309 - INFO - Fehlgeschlagene Versuche: 0
+2025-07-07 20:51:08,309 - INFO - Erfolgsrate: 100.0%
+2025-07-07 20:51:08,309 - INFO - 'I still don't care about cookies'-Erweiterung geladen aus: /home/christoph/antenne-server/idcac_extension
+2025-07-07 20:51:08,617 - INFO - Chromium-Browser erfolgreich gestartet
+2025-07-07 20:51:08,617 - INFO - Versuch #4 gestartet
+2025-07-07 20:51:09,440 - INFO - Zoom auf 30% gesetzt
+2025-07-07 20:51:09,543 - INFO - Anti-Bot-Erkennung: navigator.webdriver & Plugins gefälscht
+2025-07-07 20:51:09,590 - INFO - Website geladen: https://www.antenne.de/programm/aktionen/die-antenne-bayern-schulhof-gigs/schulen/13248-gymnasium-markt-indersdorf
+2025-07-07 20:51:09,590 - INFO - Überprüfe auf Cookie-Banner (Fallback)...
+2025-07-07 20:51:10,808 - INFO - Test durch Benutzer abgebrochen
+2025-07-07 20:51:10,809 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(104, 'Connection reset by peer')': /session/43ac05b071a34bef94dc2ceea4bda9e0
+2025-07-07 20:51:10,810 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7c60f49dfe10>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/43ac05b071a34bef94dc2ceea4bda9e0
+2025-07-07 20:51:10,810 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7c60f49e41d0>: Failed to establish a new connection: [Errno 111] Connection refused')': /session/43ac05b071a34bef94dc2ceea4bda9e0
+2025-07-07 20:51:10,811 - INFO - Browser geschlossen
+2025-07-07 20:51:10,811 - INFO - 
+=== FINALE STATISTIKEN ===
+2025-07-07 20:51:10,811 - INFO - Gesamte Versuche: 4
+2025-07-07 20:51:10,811 - INFO - Erfolgreiche Versuche: 3
+2025-07-07 20:51:10,811 - INFO - Fehlgeschlagene Versuche: 0
+2025-07-07 20:51:10,812 - INFO - Erfolgsrate: 75.0%
